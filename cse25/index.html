@@ -1,0 +1,98 @@
+const form = document.getElementById("requestForm");
+
+async function loadRequests() {
+    const response = await fetch("/api/requests");
+    const requests = await response.json();
+
+    const container = document.getElementById("requests");
+    container.innerHTML = "";
+
+    if (requests.length === 0) {
+        container.innerHTML = '<p class="empty">No requests submitted yet.</p>';
+        return;
+    }
+
+    requests.forEach(request => {
+        container.innerHTML += `
+            <div class="request">
+                <h3>${request.category}</h3>
+                <p><b>Name:</b> ${request.name}</p>
+                <p><b>Email:</b> ${request.email}</p>
+                <p><b>Problem:</b> ${request.description}</p>
+                <p><b>Priority:</b>
+                    <span class="${request.priority.toLowerCase()}">
+                        ${request.priority}
+                    </span>
+                </p>
+
+                <button class="edit" onclick="editRequest(${request.id})">
+                    Edit
+                </button>
+
+                <button class="delete" onclick="deleteRequest(${request.id})">
+                    Delete
+                </button>
+            </div>
+        `;
+    });
+}
+
+form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+
+    const id = document.getElementById("requestId").value;
+
+    const data = {
+        name: document.getElementById("name").value,
+        email: document.getElementById("email").value,
+        category: document.getElementById("category").value,
+        description: document.getElementById("description").value,
+        priority: document.getElementById("priority").value
+    };
+
+    if (id) {
+        await fetch(`/api/requests/${id}`, {
+            method: "PUT",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(data)
+        });
+    } else {
+        await fetch("/api/requests", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(data)
+        });
+    }
+
+    resetForm();
+    loadRequests();
+});
+
+async function editRequest(id) {
+    const response = await fetch(`/api/requests/${id}`);
+    const request = await response.json();
+
+    document.getElementById("requestId").value = request.id;
+    document.getElementById("name").value = request.name;
+    document.getElementById("email").value = request.email;
+    document.getElementById("category").value = request.category;
+    document.getElementById("description").value = request.description;
+    document.getElementById("priority").value = request.priority;
+
+    window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+async function deleteRequest(id) {
+    await fetch(`/api/requests/${id}`, {
+        method: "DELETE"
+    });
+
+    loadRequests();
+}
+
+function resetForm() {
+    form.reset();
+    document.getElementById("requestId").value = "";
+}
+
+loadRequests();

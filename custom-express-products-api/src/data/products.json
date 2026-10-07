@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "title": "Alpha Electronics 1",
+    "description": "Alpha Electronics product designed for reliable daily use and long-lasting performance.",
+    "category": "Electronics",
+    "price": 37,
+    "discountPercentage": 6,
+    "rating": 4.2,
+    "stock": 8,
+    "brand": "Aster",
+    "sku": "SKU-0001",
+    "tags": [
+      "electronics",
+      "aster",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.436Z"
+  },
+  {
+    "id": 2,
+    "title": "Modern Clothing 2",
+    "description": "Modern Clothing product designed for reliable daily use and long-lasting performance.",
+    "category": "Clothing",
+    "price": 54,
+    "discountPercentage": 7,
+    "rating": 4.9,
+    "stock": 11,
+    "brand": "Bright",
+    "sku": "SKU-0002",
+    "tags": [
+      "clothing",
+      "bright",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.438Z"
+  },
+  {
+    "id": 3,
+    "title": "Classic Home 3",
+    "description": "Classic Home product designed for reliable daily use and long-lasting performance.",
+    "category": "Home",
+    "price": 71,
+    "discountPercentage": 8,
+    "rating": 4,
+    "stock": 14,
+    "brand": "Casa",
+    "sku": "SKU-0003",
+    "tags": [
+      "home",
+      "casa",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 4,
+    "title": "Smart Beauty 4",
+    "description": "Smart Beauty product designed for reliable daily use and long-lasting performance.",
+    "category": "Beauty",
+    "price": 88,
+    "discountPercentage": 9,
+    "rating": 4.7,
+    "stock": 17,
+    "brand": "Core",
+    "sku": "SKU-0004",
+    "tags": [
+      "beauty",
+      "core",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 5,
+    "title": "Daily Books 5",
+    "description": "Daily Books product designed for reliable daily use and long-lasting performance.",
+    "category": "Books",
+    "price": 105,
+    "discountPercentage": 10,
+    "rating": 3.8,
+    "stock": 20,
+    "brand": "Ever",
+    "sku": "SKU-0005",
+    "tags": [
+      "books",
+      "ever",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 6,
+    "title": "Compact Sports 6",
+    "description": "Compact Sports product designed for reliable daily use and long-lasting performance.",
+    "category": "Sports",
+    "price": 122,
+    "discountPercentage": 11,
+    "rating": 4.5,
+    "stock": 23,
+    "brand": "Flex",
+    "sku": "SKU-0006",
+    "tags": [
+      "sports",
+      "flex",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 7,
+    "title": "Pro Grocery 7",
+    "description": "Pro Grocery product designed for reliable daily use and long-lasting performance.",
+    "category": "Grocery",
+    "price": 139,
+    "discountPercentage": 12,
+    "rating": 3.6,
+    "stock": 26,
+    "brand": "Glow",
+    "sku": "SKU-0007",
+    "tags": [
+      "grocery",
+      "glow",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 8,
+    "title": "Urban Office 8",
+    "description": "Urban Office product designed for reliable daily use and long-lasting performance.",
+    "category": "Office",
+    "price": 156,
+    "discountPercentage": 13,
+    "rating": 4.3,
+    "stock": 29,
+    "brand": "Nova",
+    "sku": "SKU-0008",
+    "tags": [
+      "office",
+      "nova",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 9,
+    "title": "Pure Toys 9",
+    "description": "Pure Toys product designed for reliable daily use and long-lasting performance.",
+    "category": "Toys",
+    "price": 173,
+    "discountPercentage": 14,
+    "rating": 5,
+    "stock": 32,
+    "brand": "Peak",
+    "sku": "SKU-0009",
+    "tags": [
+      "toys",
+      "peak",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 10,
+    "title": "Essential Accessories 10",
+    "description": "Essential Accessories product designed for reliable daily use and long-lasting performance.",
+    "category": "Accessories",
+    "price": 190,
+    "discountPercentage": 15,
+    "rating": 4.1,
+    "stock": 35,
+    "brand": "Zen",
+    "sku": "SKU-0010",
+    "tags": [
+      "accessories",
+      "zen",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 11,
+    "title": "Alpha Electronics 11",
+    "description": "Alpha Electronics product designed for reliable daily use and long-lasting performance.",
+    "category": "Electronics",
+    "price": 207,
+    "discountPercentage": 16,
+    "rating": 4.8,
+    "stock": 38,
+    "brand": "Aster",
+    "sku": "SKU-0011",
+    "tags": [
+      "electronics",
+      "aster",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 12,
+    "title": "Modern Clothing 12",
+    "description": "Modern Clothing product designed for reliable daily use and long-lasting performance.",
+    "category": "Clothing",
+    "price": 224,
+    "discountPercentage": 17,
+    "rating": 3.9,
+    "stock": 41,
+    "brand": "Bright",
+    "sku": "SKU-0012",
+    "tags": [
+      "clothing",
+      "bright",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 13,
+    "title": "Classic Home 13",
+    "description": "Classic Home product designed for reliable daily use and long-lasting performance.",
+    "category": "Home",
+    "price": 241,
+    "discountPercentage": 18,
+    "rating": 4.6,
+    "stock": 44,
+    "brand": "Casa",
+    "sku": "SKU-0013",
+    "tags": [
+      "home",
+      "casa",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 14,
+    "title": "Smart Beauty 14",
+    "description": "Smart Beauty product designed for reliable daily use and long-lasting performance.",
+    "category": "Beauty",
+    "price": 258,
+    "discountPercentage": 19,
+    "rating": 3.7,
+    "stock": 47,
+    "brand": "Core",
+    "sku": "SKU-0014",
+    "tags": [
+      "beauty",
+      "core",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 15,
+    "title": "Daily Books 15",
+    "description": "Daily Books product designed for reliable daily use and long-lasting performance.",
+    "category": "Books",
+    "price": 275,
+    "discountPercentage": 20,
+    "rating": 4.4,
+    "stock": 50,
+    "brand": "Ever",
+    "sku": "SKU-0015",
+    "tags": [
+      "books",
+      "ever",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 16,
+    "title": "Compact Sports 16",
+    "description": "Compact Sports product designed for reliable daily use and long-lasting performance.",
+    "category": "Sports",
+    "price": 292,
+    "discountPercentage": 21,
+    "rating": 3.5,
+    "stock": 53,
+    "brand": "Flex",
+    "sku": "SKU-0016",
+    "tags": [
+      "sports",
+      "flex",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 17,
+    "title": "Pro Grocery 17",
+    "description": "Pro Grocery product designed for reliable daily use and long-lasting performance.",
+    "category": "Grocery",
+    "price": 309,
+    "discountPercentage": 22,
+    "rating": 4.2,
+    "stock": 56,
+    "brand": "Glow",
+    "sku": "SKU-0017",
+    "tags": [
+      "grocery",
+      "glow",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 18,
+    "title": "Urban Office 18",
+    "description": "Urban Office product designed for reliable daily use and long-lasting performance.",
+    "category": "Office",
+    "price": 326,
+    "discountPercentage": 23,
+    "rating": 4.9,
+    "stock": 59,
+    "brand": "Nova",
+    "sku": "SKU-0018",
+    "tags": [
+      "office",
+      "nova",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 19,
+    "title": "Pure Toys 19",
+    "description": "Pure Toys product designed for reliable daily use and long-lasting performance.",
+    "category": "Toys",
+    "price": 343,
+    "discountPercentage": 24,
+    "rating": 4,
+    "stock": 62,
+    "brand": "Peak",
+    "sku": "SKU-0019",
+    "tags": [
+      "toys",
+      "peak",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 20,
+    "title": "Essential Accessories 20",
+    "description": "Essential Accessories product designed for reliable daily use and long-lasting performance.",
+    "category": "Accessories",
+    "price": 360,
+    "discountPercentage": 25,
+    "rating": 4.7,
+    "stock": 65,
+    "brand": "Zen",
+    "sku": "SKU-0020",
+    "tags": [
+      "accessories",
+      "zen",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 21,
+    "title": "Alpha Electronics 21",
+    "description": "Alpha Electronics product designed for reliable daily use and long-lasting performance.",
+    "category": "Electronics",
+    "price": 377,
+    "discountPercentage": 26,
+    "rating": 3.8,
+    "stock": 68,
+    "brand": "Aster",
+    "sku": "SKU-0021",
+    "tags": [
+      "electronics",
+      "aster",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 22,
+    "title": "Modern Clothing 22",
+    "description": "Modern Clothing product designed for reliable daily use and long-lasting performance.",
+    "category": "Clothing",
+    "price": 394,
+    "discountPercentage": 27,
+    "rating": 4.5,
+    "stock": 71,
+    "brand": "Bright",
+    "sku": "SKU-0022",
+    "tags": [
+      "clothing",
+      "bright",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 23,
+    "title": "Classic Home 23",
+    "description": "Classic Home product designed for reliable daily use and long-lasting performance.",
+    "category": "Home",
+    "price": 411,
+    "discountPercentage": 28,
+    "rating": 3.6,
+    "stock": 74,
+    "brand": "Casa",
+    "sku": "SKU-0023",
+    "tags": [
+      "home",
+      "casa",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 24,
+    "title": "Smart Beauty 24",
+    "description": "Smart Beauty product designed for reliable daily use and long-lasting performance.",
+    "category": "Beauty",
+    "price": 428,
+    "discountPercentage": 29,
+    "rating": 4.3,
+    "stock": 77,
+    "brand": "Core",
+    "sku": "SKU-0024",
+    "tags": [
+      "beauty",
+      "core",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 25,
+    "title": "Daily Books 25",
+    "description": "Daily Books product designed for reliable daily use and long-lasting performance.",
+    "category": "Books",
+    "price": 445,
+    "discountPercentage": 5,
+    "rating": 5,
+    "stock": 80,
+    "brand": "Ever",
+    "sku": "SKU-0025",
+    "tags": [
+      "books",
+      "ever",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 26,
+    "title": "Compact Sports 26",
+    "description": "Compact Sports product designed for reliable daily use and long-lasting performance.",
+    "category": "Sports",
+    "price": 462,
+    "discountPercentage": 6,
+    "rating": 4.1,
+    "stock": 83,
+    "brand": "Flex",
+    "sku": "SKU-0026",
+    "tags": [
+      "sports",
+      "flex",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 27,
+    "title": "Pro Grocery 27",
+    "description": "Pro Grocery product designed for reliable daily use and long-lasting performance.",
+    "category": "Grocery",
+    "price": 479,
+    "discountPercentage": 7,
+    "rating": 4.8,
+    "stock": 6,
+    "brand": "Glow",
+    "sku": "SKU-0027",
+    "tags": [
+      "grocery",
+      "glow",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 28,
+    "title": "Urban Office 28",
+    "description": "Urban Office product designed for reliable daily use and long-lasting performance.",
+    "category": "Office",
+    "price": 496,
+    "discountPercentage": 8,
+    "rating": 3.9,
+    "stock": 9,
+    "brand": "Nova",
+    "sku": "SKU-0028",
+    "tags": [
+      "office",
+      "nova",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 29,
+    "title": "Pure Toys 29",
+    "description": "Pure Toys product designed for reliable daily use and long-lasting performance.",
+    "category": "Toys",
+    "price": 33,
+    "discountPercentage": 9,
+    "rating": 4.6,
+    "stock": 12,
+    "brand": "Peak",
+    "sku": "SKU-0029",
+    "tags": [
+      "toys",
+      "peak",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 30,
+    "title": "Essential Accessories 30",
+    "description": "Essential Accessories product designed for reliable daily use and long-lasting performance.",
+    "category": "Accessories",
+    "price": 50,
+    "discountPercentage": 10,
+    "rating": 3.7,
+    "stock": 15,
+    "brand": "Zen",
+    "sku": "SKU-0030",
+    "tags": [
+      "accessories",
+      "zen",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 31,
+    "title": "Alpha Electronics 31",
+    "description": "Alpha Electronics product designed for reliable daily use and long-lasting performance.",
+    "category": "Electronics",
+    "price": 67,
+    "discountPercentage": 11,
+    "rating": 4.4,
+    "stock": 18,
+    "brand": "Aster",
+    "sku": "SKU-0031",
+    "tags": [
+      "electronics",
+      "aster",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 32,
+    "title": "Modern Clothing 32",
+    "description": "Modern Clothing product designed for reliable daily use and long-lasting performance.",
+    "category": "Clothing",
+    "price": 84,
+    "discountPercentage": 12,
+    "rating": 3.5,
+    "stock": 21,
+    "brand": "Bright",
+    "sku": "SKU-0032",
+    "tags": [
+      "clothing",
+      "bright",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 33,
+    "title": "Classic Home 33",
+    "description": "Classic Home product designed for reliable daily use and long-lasting performance.",
+    "category": "Home",
+    "price": 101,
+    "discountPercentage": 13,
+    "rating": 4.2,
+    "stock": 24,
+    "brand": "Casa",
+    "sku": "SKU-0033",
+    "tags": [
+      "home",
+      "casa",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 34,
+    "title": "Smart Beauty 34",
+    "description": "Smart Beauty product designed for reliable daily use and long-lasting performance.",
+    "category": "Beauty",
+    "price": 118,
+    "discountPercentage": 14,
+    "rating": 4.9,
+    "stock": 27,
+    "brand": "Core",
+    "sku": "SKU-0034",
+    "tags": [
+      "beauty",
+      "core",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 35,
+    "title": "Daily Books 35",
+    "description": "Daily Books product designed for reliable daily use and long-lasting performance.",
+    "category": "Books",
+    "price": 135,
+    "discountPercentage": 15,
+    "rating": 4,
+    "stock": 30,
+    "brand": "Ever",
+    "sku": "SKU-0035",
+    "tags": [
+      "books",
+      "ever",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 36,
+    "title": "Compact Sports 36",
+    "description": "Compact Sports product designed for reliable daily use and long-lasting performance.",
+    "category": "Sports",
+    "price": 152,
+    "discountPercentage": 16,
+    "rating": 4.7,
+    "stock": 33,
+    "brand": "Flex",
+    "sku": "SKU-0036",
+    "tags": [
+      "sports",
+      "flex",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 37,
+    "title": "Pro Grocery 37",
+    "description": "Pro Grocery product designed for reliable daily use and long-lasting performance.",
+    "category": "Grocery",
+    "price": 169,
+    "discountPercentage": 17,
+    "rating": 3.8,
+    "stock": 36,
+    "brand": "Glow",
+    "sku": "SKU-0037",
+    "tags": [
+      "grocery",
+      "glow",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 38,
+    "title": "Urban Office 38",
+    "description": "Urban Office product designed for reliable daily use and long-lasting performance.",
+    "category": "Office",
+    "price": 186,
+    "discountPercentage": 18,
+    "rating": 4.5,
+    "stock": 39,
+    "brand": "Nova",
+    "sku": "SKU-0038",
+    "tags": [
+      "office",
+      "nova",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 39,
+    "title": "Pure Toys 39",
+    "description": "Pure Toys product designed for reliable daily use and long-lasting performance.",
+    "category": "Toys",
+    "price": 203,
+    "discountPercentage": 19,
+    "rating": 3.6,
+    "stock": 42,
+    "brand": "Peak",
+    "sku": "SKU-0039",
+    "tags": [
+      "toys",
+      "peak",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 40,
+    "title": "Essential Accessories 40",
+    "description": "Essential Accessories product designed for reliable daily use and long-lasting performance.",
+    "category": "Accessories",
+    "price": 220,
+    "discountPercentage": 20,
+    "rating": 4.3,
+    "stock": 45,
+    "brand": "Zen",
+    "sku": "SKU-0040",
+    "tags": [
+      "accessories",
+      "zen",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 41,
+    "title": "Alpha Electronics 41",
+    "description": "Alpha Electronics product designed for reliable daily use and long-lasting performance.",
+    "category": "Electronics",
+    "price": 237,
+    "discountPercentage": 21,
+    "rating": 5,
+    "stock": 48,
+    "brand": "Aster",
+    "sku": "SKU-0041",
+    "tags": [
+      "electronics",
+      "aster",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 42,
+    "title": "Modern Clothing 42",
+    "description": "Modern Clothing product designed for reliable daily use and long-lasting performance.",
+    "category": "Clothing",
+    "price": 254,
+    "discountPercentage": 22,
+    "rating": 4.1,
+    "stock": 51,
+    "brand": "Bright",
+    "sku": "SKU-0042",
+    "tags": [
+      "clothing",
+      "bright",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 43,
+    "title": "Classic Home 43",
+    "description": "Classic Home product designed for reliable daily use and long-lasting performance.",
+    "category": "Home",
+    "price": 271,
+    "discountPercentage": 23,
+    "rating": 4.8,
+    "stock": 54,
+    "brand": "Casa",
+    "sku": "SKU-0043",
+    "tags": [
+      "home",
+      "casa",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 44,
+    "title": "Smart Beauty 44",
+    "description": "Smart Beauty product designed for reliable daily use and long-lasting performance.",
+    "category": "Beauty",
+    "price": 288,
+    "discountPercentage": 24,
+    "rating": 3.9,
+    "stock": 57,
+    "brand": "Core",
+    "sku": "SKU-0044",
+    "tags": [
+      "beauty",
+      "core",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 45,
+    "title": "Daily Books 45",
+    "description": "Daily Books product designed for reliable daily use and long-lasting performance.",
+    "category": "Books",
+    "price": 305,
+    "discountPercentage": 25,
+    "rating": 4.6,
+    "stock": 60,
+    "brand": "Ever",
+    "sku": "SKU-0045",
+    "tags": [
+      "books",
+      "ever",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 46,
+    "title": "Compact Sports 46",
+    "description": "Compact Sports product designed for reliable daily use and long-lasting performance.",
+    "category": "Sports",
+    "price": 322,
+    "discountPercentage": 26,
+    "rating": 3.7,
+    "stock": 63,
+    "brand": "Flex",
+    "sku": "SKU-0046",
+    "tags": [
+      "sports",
+      "flex",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 47,
+    "title": "Pro Grocery 47",
+    "description": "Pro Grocery product designed for reliable daily use and long-lasting performance.",
+    "category": "Grocery",
+    "price": 339,
+    "discountPercentage": 27,
+    "rating": 4.4,
+    "stock": 66,
+    "brand": "Glow",
+    "sku": "SKU-0047",
+    "tags": [
+      "grocery",
+      "glow",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 48,
+    "title": "Urban Office 48",
+    "description": "Urban Office product designed for reliable daily use and long-lasting performance.",
+    "category": "Office",
+    "price": 356,
+    "discountPercentage": 28,
+    "rating": 3.5,
+    "stock": 69,
+    "brand": "Nova",
+    "sku": "SKU-0048",
+    "tags": [
+      "office",
+      "nova",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 49,
+    "title": "Pure Toys 49",
+    "description": "Pure Toys product designed for reliable daily use and long-lasting performance.",
+    "category": "Toys",
+    "price": 373,
+    "discountPercentage": 29,
+    "rating": 4.2,
+    "stock": 72,
+    "brand": "Peak",
+    "sku": "SKU-0049",
+    "tags": [
+      "toys",
+      "peak",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 50,
+    "title": "Essential Accessories 50",
+    "description": "Essential Accessories product designed for reliable daily use and long-lasting performance.",
+    "category": "Accessories",
+    "price": 390,
+    "discountPercentage": 5,
+    "rating": 4.9,
+    "stock": 75,
+    "brand": "Zen",
+    "sku": "SKU-0050",
+    "tags": [
+      "accessories",
+      "zen",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 51,
+    "title": "Alpha Electronics 51",
+    "description": "Alpha Electronics product designed for reliable daily use and long-lasting performance.",
+    "category": "Electronics",
+    "price": 407,
+    "discountPercentage": 6,
+    "rating": 4,
+    "stock": 78,
+    "brand": "Aster",
+    "sku": "SKU-0051",
+    "tags": [
+      "electronics",
+      "aster",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 52,
+    "title": "Modern Clothing 52",
+    "description": "Modern Clothing product designed for reliable daily use and long-lasting performance.",
+    "category": "Clothing",
+    "price": 424,
+    "discountPercentage": 7,
+    "rating": 4.7,
+    "stock": 81,
+    "brand": "Bright",
+    "sku": "SKU-0052",
+    "tags": [
+      "clothing",
+      "bright",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 53,
+    "title": "Classic Home 53",
+    "description": "Classic Home product designed for reliable daily use and long-lasting performance.",
+    "category": "Home",
+    "price": 441,
+    "discountPercentage": 8,
+    "rating": 3.8,
+    "stock": 84,
+    "brand": "Casa",
+    "sku": "SKU-0053",
+    "tags": [
+      "home",
+      "casa",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 54,
+    "title": "Smart Beauty 54",
+    "description": "Smart Beauty product designed for reliable daily use and long-lasting performance.",
+    "category": "Beauty",
+    "price": 458,
+    "discountPercentage": 9,
+    "rating": 4.5,
+    "stock": 7,
+    "brand": "Core",
+    "sku": "SKU-0054",
+    "tags": [
+      "beauty",
+      "core",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 55,
+    "title": "Daily Books 55",
+    "description": "Daily Books product designed for reliable daily use and long-lasting performance.",
+    "category": "Books",
+    "price": 475,
+    "discountPercentage": 10,
+    "rating": 3.6,
+    "stock": 10,
+    "brand": "Ever",
+    "sku": "SKU-0055",
+    "tags": [
+      "books",
+      "ever",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 56,
+    "title": "Compact Sports 56",
+    "description": "Compact Sports product designed for reliable daily use and long-lasting performance.",
+    "category": "Sports",
+    "price": 492,
+    "discountPercentage": 11,
+    "rating": 4.3,
+    "stock": 13,
+    "brand": "Flex",
+    "sku": "SKU-0056",
+    "tags": [
+      "sports",
+      "flex",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 57,
+    "title": "Pro Grocery 57",
+    "description": "Pro Grocery product designed for reliable daily use and long-lasting performance.",
+    "category": "Grocery",
+    "price": 29,
+    "discountPercentage": 12,
+    "rating": 5,
+    "stock": 16,
+    "brand": "Glow",
+    "sku": "SKU-0057",
+    "tags": [
+      "grocery",
+      "glow",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 58,
+    "title": "Urban Office 58",
+    "description": "Urban Office product designed for reliable daily use and long-lasting performance.",
+    "category": "Office",
+    "price": 46,
+    "discountPercentage": 13,
+    "rating": 4.1,
+    "stock": 19,
+    "brand": "Nova",
+    "sku": "SKU-0058",
+    "tags": [
+      "office",
+      "nova",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 59,
+    "title": "Pure Toys 59",
+    "description": "Pure Toys product designed for reliable daily use and long-lasting performance.",
+    "category": "Toys",
+    "price": 63,
+    "discountPercentage": 14,
+    "rating": 4.8,
+    "stock": 22,
+    "brand": "Peak",
+    "sku": "SKU-0059",
+    "tags": [
+      "toys",
+      "peak",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 60,
+    "title": "Essential Accessories 60",
+    "description": "Essential Accessories product designed for reliable daily use and long-lasting performance.",
+    "category": "Accessories",
+    "price": 80,
+    "discountPercentage": 15,
+    "rating": 3.9,
+    "stock": 25,
+    "brand": "Zen",
+    "sku": "SKU-0060",
+    "tags": [
+      "accessories",
+      "zen",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 61,
+    "title": "Alpha Electronics 61",
+    "description": "Alpha Electronics product designed for reliable daily use and long-lasting performance.",
+    "category": "Electronics",
+    "price": 97,
+    "discountPercentage": 16,
+    "rating": 4.6,
+    "stock": 28,
+    "brand": "Aster",
+    "sku": "SKU-0061",
+    "tags": [
+      "electronics",
+      "aster",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 62,
+    "title": "Modern Clothing 62",
+    "description": "Modern Clothing product designed for reliable daily use and long-lasting performance.",
+    "category": "Clothing",
+    "price": 114,
+    "discountPercentage": 17,
+    "rating": 3.7,
+    "stock": 31,
+    "brand": "Bright",
+    "sku": "SKU-0062",
+    "tags": [
+      "clothing",
+      "bright",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 63,
+    "title": "Classic Home 63",
+    "description": "Classic Home product designed for reliable daily use and long-lasting performance.",
+    "category": "Home",
+    "price": 131,
+    "discountPercentage": 18,
+    "rating": 4.4,
+    "stock": 34,
+    "brand": "Casa",
+    "sku": "SKU-0063",
+    "tags": [
+      "home",
+      "casa",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 64,
+    "title": "Smart Beauty 64",
+    "description": "Smart Beauty product designed for reliable daily use and long-lasting performance.",
+    "category": "Beauty",
+    "price": 148,
+    "discountPercentage": 19,
+    "rating": 3.5,
+    "stock": 37,
+    "brand": "Core",
+    "sku": "SKU-0064",
+    "tags": [
+      "beauty",
+      "core",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 65,
+    "title": "Daily Books 65",
+    "description": "Daily Books product designed for reliable daily use and long-lasting performance.",
+    "category": "Books",
+    "price": 165,
+    "discountPercentage": 20,
+    "rating": 4.2,
+    "stock": 40,
+    "brand": "Ever",
+    "sku": "SKU-0065",
+    "tags": [
+      "books",
+      "ever",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 66,
+    "title": "Compact Sports 66",
+    "description": "Compact Sports product designed for reliable daily use and long-lasting performance.",
+    "category": "Sports",
+    "price": 182,
+    "discountPercentage": 21,
+    "rating": 4.9,
+    "stock": 43,
+    "brand": "Flex",
+    "sku": "SKU-0066",
+    "tags": [
+      "sports",
+      "flex",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 67,
+    "title": "Pro Grocery 67",
+    "description": "Pro Grocery product designed for reliable daily use and long-lasting performance.",
+    "category": "Grocery",
+    "price": 199,
+    "discountPercentage": 22,
+    "rating": 4,
+    "stock": 46,
+    "brand": "Glow",
+    "sku": "SKU-0067",
+    "tags": [
+      "grocery",
+      "glow",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 68,
+    "title": "Urban Office 68",
+    "description": "Urban Office product designed for reliable daily use and long-lasting performance.",
+    "category": "Office",
+    "price": 216,
+    "discountPercentage": 23,
+    "rating": 4.7,
+    "stock": 49,
+    "brand": "Nova",
+    "sku": "SKU-0068",
+    "tags": [
+      "office",
+      "nova",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 69,
+    "title": "Pure Toys 69",
+    "description": "Pure Toys product designed for reliable daily use and long-lasting performance.",
+    "category": "Toys",
+    "price": 233,
+    "discountPercentage": 24,
+    "rating": 3.8,
+    "stock": 52,
+    "brand": "Peak",
+    "sku": "SKU-0069",
+    "tags": [
+      "toys",
+      "peak",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 70,
+    "title": "Essential Accessories 70",
+    "description": "Essential Accessories product designed for reliable daily use and long-lasting performance.",
+    "category": "Accessories",
+    "price": 250,
+    "discountPercentage": 25,
+    "rating": 4.5,
+    "stock": 55,
+    "brand": "Zen",
+    "sku": "SKU-0070",
+    "tags": [
+      "accessories",
+      "zen",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 71,
+    "title": "Alpha Electronics 71",
+    "description": "Alpha Electronics product designed for reliable daily use and long-lasting performance.",
+    "category": "Electronics",
+    "price": 267,
+    "discountPercentage": 26,
+    "rating": 3.6,
+    "stock": 58,
+    "brand": "Aster",
+    "sku": "SKU-0071",
+    "tags": [
+      "electronics",
+      "aster",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 72,
+    "title": "Modern Clothing 72",
+    "description": "Modern Clothing product designed for reliable daily use and long-lasting performance.",
+    "category": "Clothing",
+    "price": 284,
+    "discountPercentage": 27,
+    "rating": 4.3,
+    "stock": 61,
+    "brand": "Bright",
+    "sku": "SKU-0072",
+    "tags": [
+      "clothing",
+      "bright",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 73,
+    "title": "Classic Home 73",
+    "description": "Classic Home product designed for reliable daily use and long-lasting performance.",
+    "category": "Home",
+    "price": 301,
+    "discountPercentage": 28,
+    "rating": 5,
+    "stock": 64,
+    "brand": "Casa",
+    "sku": "SKU-0073",
+    "tags": [
+      "home",
+      "casa",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 74,
+    "title": "Smart Beauty 74",
+    "description": "Smart Beauty product designed for reliable daily use and long-lasting performance.",
+    "category": "Beauty",
+    "price": 318,
+    "discountPercentage": 29,
+    "rating": 4.1,
+    "stock": 67,
+    "brand": "Core",
+    "sku": "SKU-0074",
+    "tags": [
+      "beauty",
+      "core",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 75,
+    "title": "Daily Books 75",
+    "description": "Daily Books product designed for reliable daily use and long-lasting performance.",
+    "category": "Books",
+    "price": 335,
+    "discountPercentage": 5,
+    "rating": 4.8,
+    "stock": 70,
+    "brand": "Ever",
+    "sku": "SKU-0075",
+    "tags": [
+      "books",
+      "ever",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 76,
+    "title": "Compact Sports 76",
+    "description": "Compact Sports product designed for reliable daily use and long-lasting performance.",
+    "category": "Sports",
+    "price": 352,
+    "discountPercentage": 6,
+    "rating": 3.9,
+    "stock": 73,
+    "brand": "Flex",
+    "sku": "SKU-0076",
+    "tags": [
+      "sports",
+      "flex",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 77,
+    "title": "Pro Grocery 77",
+    "description": "Pro Grocery product designed for reliable daily use and long-lasting performance.",
+    "category": "Grocery",
+    "price": 369,
+    "discountPercentage": 7,
+    "rating": 4.6,
+    "stock": 76,
+    "brand": "Glow",
+    "sku": "SKU-0077",
+    "tags": [
+      "grocery",
+      "glow",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 78,
+    "title": "Urban Office 78",
+    "description": "Urban Office product designed for reliable daily use and long-lasting performance.",
+    "category": "Office",
+    "price": 386,
+    "discountPercentage": 8,
+    "rating": 3.7,
+    "stock": 79,
+    "brand": "Nova",
+    "sku": "SKU-0078",
+    "tags": [
+      "office",
+      "nova",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 79,
+    "title": "Pure Toys 79",
+    "description": "Pure Toys product designed for reliable daily use and long-lasting performance.",
+    "category": "Toys",
+    "price": 403,
+    "discountPercentage": 9,
+    "rating": 4.4,
+    "stock": 82,
+    "brand": "Peak",
+    "sku": "SKU-0079",
+    "tags": [
+      "toys",
+      "peak",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 80,
+    "title": "Essential Accessories 80",
+    "description": "Essential Accessories product designed for reliable daily use and long-lasting performance.",
+    "category": "Accessories",
+    "price": 420,
+    "discountPercentage": 10,
+    "rating": 3.5,
+    "stock": 5,
+    "brand": "Zen",
+    "sku": "SKU-0080",
+    "tags": [
+      "accessories",
+      "zen",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 81,
+    "title": "Alpha Electronics 81",
+    "description": "Alpha Electronics product designed for reliable daily use and long-lasting performance.",
+    "category": "Electronics",
+    "price": 437,
+    "discountPercentage": 11,
+    "rating": 4.2,
+    "stock": 8,
+    "brand": "Aster",
+    "sku": "SKU-0081",
+    "tags": [
+      "electronics",
+      "aster",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 82,
+    "title": "Modern Clothing 82",
+    "description": "Modern Clothing product designed for reliable daily use and long-lasting performance.",
+    "category": "Clothing",
+    "price": 454,
+    "discountPercentage": 12,
+    "rating": 4.9,
+    "stock": 11,
+    "brand": "Bright",
+    "sku": "SKU-0082",
+    "tags": [
+      "clothing",
+      "bright",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 83,
+    "title": "Classic Home 83",
+    "description": "Classic Home product designed for reliable daily use and long-lasting performance.",
+    "category": "Home",
+    "price": 471,
+    "discountPercentage": 13,
+    "rating": 4,
+    "stock": 14,
+    "brand": "Casa",
+    "sku": "SKU-0083",
+    "tags": [
+      "home",
+      "casa",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 84,
+    "title": "Smart Beauty 84",
+    "description": "Smart Beauty product designed for reliable daily use and long-lasting performance.",
+    "category": "Beauty",
+    "price": 488,
+    "discountPercentage": 14,
+    "rating": 4.7,
+    "stock": 17,
+    "brand": "Core",
+    "sku": "SKU-0084",
+    "tags": [
+      "beauty",
+      "core",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 85,
+    "title": "Daily Books 85",
+    "description": "Daily Books product designed for reliable daily use and long-lasting performance.",
+    "category": "Books",
+    "price": 25,
+    "discountPercentage": 15,
+    "rating": 3.8,
+    "stock": 20,
+    "brand": "Ever",
+    "sku": "SKU-0085",
+    "tags": [
+      "books",
+      "ever",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 86,
+    "title": "Compact Sports 86",
+    "description": "Compact Sports product designed for reliable daily use and long-lasting performance.",
+    "category": "Sports",
+    "price": 42,
+    "discountPercentage": 16,
+    "rating": 4.5,
+    "stock": 23,
+    "brand": "Flex",
+    "sku": "SKU-0086",
+    "tags": [
+      "sports",
+      "flex",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 87,
+    "title": "Pro Grocery 87",
+    "description": "Pro Grocery product designed for reliable daily use and long-lasting performance.",
+    "category": "Grocery",
+    "price": 59,
+    "discountPercentage": 17,
+    "rating": 3.6,
+    "stock": 26,
+    "brand": "Glow",
+    "sku": "SKU-0087",
+    "tags": [
+      "grocery",
+      "glow",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 88,
+    "title": "Urban Office 88",
+    "description": "Urban Office product designed for reliable daily use and long-lasting performance.",
+    "category": "Office",
+    "price": 76,
+    "discountPercentage": 18,
+    "rating": 4.3,
+    "stock": 29,
+    "brand": "Nova",
+    "sku": "SKU-0088",
+    "tags": [
+      "office",
+      "nova",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 89,
+    "title": "Pure Toys 89",
+    "description": "Pure Toys product designed for reliable daily use and long-lasting performance.",
+    "category": "Toys",
+    "price": 93,
+    "discountPercentage": 19,
+    "rating": 5,
+    "stock": 32,
+    "brand": "Peak",
+    "sku": "SKU-0089",
+    "tags": [
+      "toys",
+      "peak",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 90,
+    "title": "Essential Accessories 90",
+    "description": "Essential Accessories product designed for reliable daily use and long-lasting performance.",
+    "category": "Accessories",
+    "price": 110,
+    "discountPercentage": 20,
+    "rating": 4.1,
+    "stock": 35,
+    "brand": "Zen",
+    "sku": "SKU-0090",
+    "tags": [
+      "accessories",
+      "zen",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 91,
+    "title": "Alpha Electronics 91",
+    "description": "Alpha Electronics product designed for reliable daily use and long-lasting performance.",
+    "category": "Electronics",
+    "price": 127,
+    "discountPercentage": 21,
+    "rating": 4.8,
+    "stock": 38,
+    "brand": "Aster",
+    "sku": "SKU-0091",
+    "tags": [
+      "electronics",
+      "aster",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 92,
+    "title": "Modern Clothing 92",
+    "description": "Modern Clothing product designed for reliable daily use and long-lasting performance.",
+    "category": "Clothing",
+    "price": 144,
+    "discountPercentage": 22,
+    "rating": 3.9,
+    "stock": 41,
+    "brand": "Bright",
+    "sku": "SKU-0092",
+    "tags": [
+      "clothing",
+      "bright",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 93,
+    "title": "Classic Home 93",
+    "description": "Classic Home product designed for reliable daily use and long-lasting performance.",
+    "category": "Home",
+    "price": 161,
+    "discountPercentage": 23,
+    "rating": 4.6,
+    "stock": 44,
+    "brand": "Casa",
+    "sku": "SKU-0093",
+    "tags": [
+      "home",
+      "casa",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 94,
+    "title": "Smart Beauty 94",
+    "description": "Smart Beauty product designed for reliable daily use and long-lasting performance.",
+    "category": "Beauty",
+    "price": 178,
+    "discountPercentage": 24,
+    "rating": 3.7,
+    "stock": 47,
+    "brand": "Core",
+    "sku": "SKU-0094",
+    "tags": [
+      "beauty",
+      "core",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 95,
+    "title": "Daily Books 95",
+    "description": "Daily Books product designed for reliable daily use and long-lasting performance.",
+    "category": "Books",
+    "price": 195,
+    "discountPercentage": 25,
+    "rating": 4.4,
+    "stock": 50,
+    "brand": "Ever",
+    "sku": "SKU-0095",
+    "tags": [
+      "books",
+      "ever",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 96,
+    "title": "Compact Sports 96",
+    "description": "Compact Sports product designed for reliable daily use and long-lasting performance.",
+    "category": "Sports",
+    "price": 212,
+    "discountPercentage": 26,
+    "rating": 3.5,
+    "stock": 53,
+    "brand": "Flex",
+    "sku": "SKU-0096",
+    "tags": [
+      "sports",
+      "flex",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 97,
+    "title": "Pro Grocery 97",
+    "description": "Pro Grocery product designed for reliable daily use and long-lasting performance.",
+    "category": "Grocery",
+    "price": 229,
+    "discountPercentage": 27,
+    "rating": 4.2,
+    "stock": 56,
+    "brand": "Glow",
+    "sku": "SKU-0097",
+    "tags": [
+      "grocery",
+      "glow",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 98,
+    "title": "Urban Office 98",
+    "description": "Urban Office product designed for reliable daily use and long-lasting performance.",
+    "category": "Office",
+    "price": 246,
+    "discountPercentage": 28,
+    "rating": 4.9,
+    "stock": 59,
+    "brand": "Nova",
+    "sku": "SKU-0098",
+    "tags": [
+      "office",
+      "nova",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 99,
+    "title": "Pure Toys 99",
+    "description": "Pure Toys product designed for reliable daily use and long-lasting performance.",
+    "category": "Toys",
+    "price": 263,
+    "discountPercentage": 29,
+    "rating": 4,
+    "stock": 62,
+    "brand": "Peak",
+    "sku": "SKU-0099",
+    "tags": [
+      "toys",
+      "peak",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  },
+  {
+    "id": 100,
+    "title": "Essential Accessories 100",
+    "description": "Essential Accessories product designed for reliable daily use and long-lasting performance.",
+    "category": "Accessories",
+    "price": 280,
+    "discountPercentage": 5,
+    "rating": 4.7,
+    "stock": 65,
+    "brand": "Zen",
+    "sku": "SKU-0100",
+    "tags": [
+      "accessories",
+      "zen",
+      "new"
+    ],
+    "warrantyInformation": "1 year limited warranty",
+    "returnPolicy": "30 day return policy",
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2026-09-14T06:25:36.439Z"
+  }
+]
