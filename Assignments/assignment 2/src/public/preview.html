@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Express Products API - Live Preview & Explorer</title>
+  <style>
+    :root {
+      --bg: #0b0f19;
+      --surface: #131b2e;
+      --card: #1c2640;
+      --border: #2a3759;
+      --primary: #3b82f6;
+      --primary-hover: #2563eb;
+      --accent: #10b981;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --star: #fbbf24;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      padding-bottom: 60px;
+    }
+    header {
+      background-color: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 16px 24px;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .logo-badge {
+      background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+      color: white;
+      font-weight: bold;
+      padding: 6px 12px;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .btn {
+      background-color: var(--card);
+      color: var(--text);
+      border: 1px solid var(--border);
+      padding: 8px 14px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      text-decoration: none;
+      transition: all 0.15s ease;
+    }
+    .btn:hover { background-color: var(--border); }
+    .btn-primary {
+      background: linear-gradient(135deg, #3b82f6, #2563eb);
+      border-color: #2563eb;
+      color: white;
+    }
+    .btn-primary:hover { background: #1d4ed8; }
+    .container {
+      max-width: 1300px;
+      margin: 0 auto;
+      padding: 24px 20px;
+    }
+    .nav-tabs {
+      display: flex;
+      gap: 8px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 24px;
+    }
+    .tab-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      padding: 10px 18px;
+      font-size: 15px;
+      font-weight: 500;
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      transition: all 0.2s;
+    }
+    .tab-btn.active {
+      color: #60a5fa;
+      border-bottom-color: #60a5fa;
+    }
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    .metric-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px 20px;
+    }
+    .metric-title { font-size: 13px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+    .metric-value { font-size: 26px; font-weight: 700; color: #38bdf8; margin-top: 4px; }
+    .metric-sub { font-size: 12px; color: var(--text-muted); margin-top: 4px; }
+    .controls {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px;
+      margin-bottom: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .search-row {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .search-input {
+      flex: 1;
+      min-width: 260px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 10px 14px;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+    .search-input:focus { outline: none; border-color: var(--primary); }
+    .select-input {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 10px 14px;
+      border-radius: 8px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    .category-pills {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+    }
+    .pill {
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 13px;
+      white-space: nowrap;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .pill:hover, .pill.active {
+      background: #2563eb;
+      color: white;
+      border-color: #3b82f6;
+    }
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+    }
+    .product-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+    .product-card:hover {
+      transform: translateY(-3px);
+      border-color: #3b82f6;
+    }
+    .img-wrap {
+      height: 180px;
+      background: #1e293b;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .img-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .badge-cat {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: rgba(15, 23, 42, 0.85);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      color: #93c5fd;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 4px 8px;
+      border-radius: 6px;
+      backdrop-filter: blur(4px);
+    }
+    .badge-stock {
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+      background: rgba(16, 185, 129, 0.85);
+      color: white;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 8px;
+      border-radius: 6px;
+      backdrop-filter: blur(4px);
+    }
+    .card-body {
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+    .brand-name {
+      font-size: 12px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+    .product-title {
+      font-size: 16px;
+      font-weight: 600;
+      margin: 4px 0 8px;
+      line-height: 1.3;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      height: 42px;
+    }
+    .product-desc {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      flex: 1;
+    }
+    .card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 12px;
+      border-top: 1px solid var(--border);
+      margin-top: auto;
+    }
+    .price-wrap {
+      display: flex;
+      flex-direction: column;
+    }
+    .price {
+      font-size: 20px;
+      font-weight: 700;
+      color: #34d399;
+    }
+    .discount {
+      font-size: 11px;
+      color: #f87171;
+    }
+    .rating {
+      color: var(--star);
+      font-size: 13px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 3px;
+    }
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      margin-top: 32px;
+    }
+    .console-box {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+    }
+    .url-bar {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .method-tag {
+      background: #059669;
+      color: white;
+      font-weight: 700;
+      padding: 10px 16px;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+    .quick-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+    pre {
+      background: #090d16;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px;
+      color: #a7f3d0;
+      font-size: 13px;
+      overflow-x: auto;
+      max-height: 450px;
+    }
+    .modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.7);
+      backdrop-filter: blur(4px);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .modal-content {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      max-width: 700px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      padding: 24px;
+      position: relative;
+    }
+    .close-btn {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      background: var(--card);
+      border: none;
+      color: var(--text);
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="brand">
+      <span class="logo-badge">Express.js API</span>
+      <div>
+        <strong style="font-size: 17px;">🛒 Products API Live Preview</strong>
+        <span style="font-size: 12px; color: #10b981; margin-left: 8px;">● 100 Products Online</span>
+      </div>
+    </div>
+    <div class="header-actions">
+      <a class="btn" href="/api/products/stats" target="_blank">📊 JSON Stats</a>
+      <a class="btn" href="/api/products?all=true" target="_blank">📄 Raw JSON (100)</a>
+      <a class="btn btn-primary" href="/download" download>📦 Download ZIP</a>
+    </div>
+  </header>
+
+  <div class="container">
+
+    <div class="nav-tabs">
+      <button class="tab-btn active" onclick="switchTab('catalog')">🛍️ Product Catalog</button>
+      <button class="tab-btn" onclick="switchTab('console')">⚡ Interactive API Console</button>
+      <button class="tab-btn" onclick="switchTab('metrics')">📈 Dataset Overview</button>
+    </div>
+
+    <!-- METRICS BAR -->
+    <div class="metrics-grid" id="statsBar">
+      <div class="metric-card">
+        <div class="metric-title">Total Products</div>
+        <div class="metric-value" id="statTotal">100</div>
+        <div class="metric-sub">Across 10 categories</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-title">Average Price</div>
+        <div class="metric-value" id="statAvgPrice">$0.00</div>
+        <div class="metric-sub">Min: <span id="statMin">$0</span> · Max: <span id="statMax">$0</span></div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-title">Total Inventory Units</div>
+        <div class="metric-value" id="statStock">0</div>
+        <div class="metric-sub">All items in stock</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-title">Average Rating</div>
+        <div class="metric-value" id="statRating">★ 0.0</div>
+        <div class="metric-sub">Customer satisfaction</div>
+      </div>
+    </div>
+
+    <!-- TAB 1: CATALOG -->
+    <div id="tab-catalog">
+      <div class="controls">
+        <div class="search-row">
+          <input type="text" id="searchInput" class="search-input" placeholder="🔍 Search by title, brand, category, tags... (e.g. coffee, wireless, drone)">
+          <select id="sortSelect" class="select-input" onchange="applyFilters()">
+            <option value="id:asc">Default (ID: 1 → 100)</option>
+            <option value="price:asc">Price: Low to High</option>
+            <option value="price:desc">Price: High to Low</option>
+            <option value="rating:desc">Highest Rated</option>
+            <option value="title:asc">Title: A - Z</option>
+          </select>
+          <select id="limitSelect" class="select-input" onchange="applyFilters()">
+            <option value="12">12 per page</option>
+            <option value="24">24 per page</option>
+            <option value="50">50 per page</option>
+            <option value="100">Show all 100</option>
+          </select>
+        </div>
+
+        <div class="category-pills" id="categoryPills">
+          <button class="pill active" onclick="selectCategory('all', this)">All Categories</button>
+        </div>
+      </div>
+
+      <div id="resultsCount" style="font-size: 14px; color: var(--text-muted); margin-bottom: 16px;">Loading products...</div>
+
+      <div class="product-grid" id="productGrid"></div>
+
+      <div class="pagination" id="paginationBar"></div>
+    </div>
+
+    <!-- TAB 2: API CONSOLE -->
+    <div id="tab-console" style="display: none;">
+      <div class="console-box">
+        <h3 style="margin-bottom: 12px; font-size: 18px;">⚡ Live API Request Console</h3>
+        <p style="color: var(--text-muted); font-size: 14px; margin-bottom: 16px;">
+          Send live requests directly to your running Express.js API and inspect JSON responses in real-time.
+        </p>
+
+        <div class="quick-links">
+          <button class="btn" onclick="fetchEndpoint('/api/products?page=1&limit=5')">GET /api/products (Paginated)</button>
+          <button class="btn" onclick="fetchEndpoint('/api/products/1')">GET /api/products/1</button>
+          <button class="btn" onclick="fetchEndpoint('/api/products/categories')">GET /api/products/categories</button>
+          <button class="btn" onclick="fetchEndpoint('/api/products/stats')">GET /api/products/stats</button>
+          <button class="btn" onclick="fetchEndpoint('/api/products?category=Electronics&minPrice=100')">Filter: Electronics > $100</button>
+          <button class="btn" onclick="fetchEndpoint('/health')">GET /health</button>
+          <button class="btn" onclick="fetchEndpoint('/')">GET / (API Meta)</button>
+        </div>
+
+        <div class="url-bar">
+          <span class="method-tag">GET</span>
+          <input type="text" id="consoleUrl" class="search-input" value="/api/products?limit=5">
+          <button class="btn btn-primary" onclick="fetchEndpoint(document.getElementById('consoleUrl').value)">Send Request</button>
+        </div>
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <span id="responseStatus" style="font-size: 13px; font-weight: 600; color: #10b981;">Response (Status: 200 OK)</span>
+          <button class="btn" style="padding: 4px 10px; font-size: 12px;" onclick="copyJson()">📋 Copy JSON</button>
+        </div>
+
+        <pre id="jsonViewer">// Live JSON response will appear here...</pre>
+      </div>
+    </div>
+
+    <!-- TAB 3: DATASET OVERVIEW -->
+    <div id="tab-metrics" style="display: none;">
+      <div class="console-box">
+        <h3 style="margin-bottom: 12px;">📊 Category Breakdown</h3>
+        <div id="categoryBreakdown" style="display: flex; flex-direction: column; gap: 10px;"></div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- PRODUCT DETAIL MODAL -->
+  <div class="modal" id="productModal" onclick="closeModal(event)">
+    <div class="modal-content" onclick="event.stopPropagation()">
+      <button class="close-btn" onclick="document.getElementById('productModal').style.display = 'none'">✕ Close</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <script>
+    let currentCategory = 'all';
+    let currentPage = 1;
+    let totalPages = 1;
+
+    async function init() {
+      await loadStats();
+      await loadCategories();
+      await fetchProducts();
+      // Setup debounced search
+      let timeout;
+      document.getElementById('searchInput').addEventListener('input', () => {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => {
+          currentPage = 1;
+          fetchProducts();
+        }, 250);
+      });
+    }
+
+    async function loadStats() {
+      try {
+        const res = await fetch('/api/products/stats');
+        const json = await res.json();
+        if (json.success) {
+          const s = json.data;
+          document.getElementById('statTotal').innerText = s.totalProducts;
+          document.getElementById('statAvgPrice').innerText = '$' + s.averagePrice;
+          document.getElementById('statMin').innerText = '$' + s.minPrice;
+          document.getElementById('statMax').innerText = '$' + s.maxPrice;
+          document.getElementById('statStock').innerText = s.totalStock.toLocaleString();
+          document.getElementById('statRating').innerText = '★ ' + s.averageRating;
+
+          // Render Category breakdown
+          const breakdownDiv = document.getElementById('categoryBreakdown');
+          breakdownDiv.innerHTML = Object.entries(s.categoryBreakdown).map(([cat, count]) => `
+            <div style="display: flex; align-items: center; justify-content: space-between; background: var(--bg); padding: 10px 14px; border-radius: 8px; border: 1px solid var(--border);">
+              <span><strong>${cat}</strong></span>
+              <span style="background: #2563eb; color: white; padding: 2px 10px; border-radius: 12px; font-size: 12px; font-weight: 600;">${count} products</span>
+            </div>
+          `).join('');
+        }
+      } catch (err) {
+        console.error('Failed to load stats', err);
+      }
+    }
+
+    async function loadCategories() {
+      try {
+        const res = await fetch('/api/products/categories');
+        const json = await res.json();
+        if (json.success) {
+          const container = document.getElementById('categoryPills');
+          json.data.forEach(cat => {
+            const btn = document.createElement('button');
+            btn.className = 'pill';
+            btn.innerText = `${cat.name} (${cat.productCount})`;
+            btn.onclick = () => selectCategory(cat.name, btn);
+            container.appendChild(btn);
+          });
+        }
+      } catch (err) {
+        console.error('Failed to load categories', err);
+      }
+    }
+
+    function selectCategory(cat, element) {
+      document.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
+      element.classList.add('active');
+      currentCategory = cat;
+      currentPage = 1;
+      fetchProducts();
+    }
+
+    function applyFilters() {
+      currentPage = 1;
+      fetchProducts();
+    }
+
+    async function fetchProducts() {
+      const q = document.getElementById('searchInput').value.trim();
+      const [sortBy, order] = document.getElementById('sortSelect').value.split(':');
+      const limit = document.getElementById('limitSelect').value;
+
+      let url = `/api/products?page=${currentPage}&limit=${limit}&sortBy=${sortBy}&order=${order}`;
+      if (currentCategory !== 'all') {
+        url += `&category=${encodeURIComponent(currentCategory)}`;
+      }
+      if (q) {
+        url += `&q=${encodeURIComponent(q)}`;
+      }
+
+      const grid = document.getElementById('productGrid');
+      grid.innerHTML = '<div style="color: var(--text-muted); padding: 40px 0;">Loading matching products...</div>';
+
+      try {
+        const res = await fetch(url);
+        const data = await res.json();
+
+        if (data.success) {
+          totalPages = data.totalPages || 1;
+          document.getElementById('resultsCount').innerText = `Showing ${data.count} of ${data.total} products (Page ${data.page} of ${totalPages})`;
+
+          if (data.data.length === 0) {
+            grid.innerHTML = '<div style="grid-column: 1/-1; padding: 40px; text-align: center; color: var(--text-muted);">No products found matching your search.</div>';
+            document.getElementById('paginationBar').innerHTML = '';
+            return;
+          }
+
+          grid.innerHTML = data.data.map(p => `
+            <div class="product-card">
+              <div class="img-wrap">
+                <img src="${p.thumbnail}" alt="${p.title}" onerror="this.src='https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&q=80'">
+                <span class="badge-cat">${p.category}</span>
+                <span class="badge-stock">${p.stock} in stock</span>
+              </div>
+              <div class="card-body">
+                <span class="brand-name">${p.brand} · ${p.sku}</span>
+                <h4 class="product-title" title="${p.title}">${p.title}</h4>
+                <p class="product-desc">${p.description}</p>
+                <div class="card-footer">
+                  <div class="price-wrap">
+                    <span class="price">$${p.price.toFixed(2)}</span>
+                    ${p.discountPercentage > 0 ? `<span class="discount">-${p.discountPercentage}% OFF</span>` : ''}
+                  </div>
+                  <div class="rating">★ ${p.rating.toFixed(1)}</div>
+                </div>
+                <button class="btn" style="margin-top: 12px; justify-content: center; width: 100%;" onclick='openModal(${JSON.stringify(p).replace(/'/g, "&#39;")})'>🔍 Inspect JSON & Specs</button>
+              </div>
+            </div>
+          `).join('');
+
+          renderPagination(data);
+        }
+      } catch (err) {
+        grid.innerHTML = `<div style="color: #ef4444; padding: 20px;">Error loading products: ${err.message}</div>`;
+      }
+    }
+
+    function renderPagination(data) {
+      const bar = document.getElementById('paginationBar');
+      if (data.totalPages <= 1) {
+        bar.innerHTML = '';
+        return;
+      }
+
+      bar.innerHTML = `
+        <button class="btn" ${data.hasPrevPage ? '' : 'disabled style="opacity: 0.4;"'} onclick="changePage(${currentPage - 1})">← Previous</button>
+        <span style="font-size: 14px; font-weight: 500;">Page ${data.page} of ${data.totalPages}</span>
+        <button class="btn" ${data.hasNextPage ? '' : 'disabled style="opacity: 0.4;"'} onclick="changePage(${currentPage + 1})">Next →</button>
+      `;
+    }
+
+    function changePage(page) {
+      if (page < 1 || page > totalPages) return;
+      currentPage = page;
+      fetchProducts();
+      window.scrollTo({ top: 280, behavior: 'smooth' });
+    }
+
+    function openModal(p) {
+      const modal = document.getElementById('productModal');
+      const body = document.getElementById('modalBody');
+      body.innerHTML = `
+        <h2 style="font-size: 20px; margin-bottom: 6px;">${p.title}</h2>
+        <div style="color: var(--text-muted); font-size: 13px; margin-bottom: 16px;">Category: <strong>${p.category}</strong> · Brand: <strong>${p.brand}</strong> · SKU: <strong>${p.sku}</strong></div>
+        <p style="margin-bottom: 16px;">${p.description}</p>
+        <div style="display: flex; gap: 20px; margin-bottom: 16px;">
+          <div><strong>Price:</strong> <span style="color: #34d399; font-size: 18px;">$${p.price.toFixed(2)}</span></div>
+          <div><strong>Stock:</strong> ${p.stock} units</div>
+          <div><strong>Warranty:</strong> ${p.warrantyInformation}</div>
+        </div>
+        <h4 style="margin-bottom: 8px; font-size: 14px;">Full Product JSON:</h4>
+        <pre style="max-height: 250px;">${JSON.stringify(p, null, 2)}</pre>
+      `;
+      modal.style.display = 'flex';
+    }
+
+    function closeModal(e) {
+      if (e.target.id === 'productModal') {
+        document.getElementById('productModal').style.display = 'none';
+      }
+    }
+
+    async function fetchEndpoint(url) {
+      document.getElementById('consoleUrl').value = url;
+      const viewer = document.getElementById('jsonViewer');
+      viewer.innerText = 'Fetching...';
+      const start = performance.now();
+      try {
+        const res = await fetch(url);
+        const time = (performance.now() - start).toFixed(1);
+        const json = await res.json();
+        document.getElementById('responseStatus').innerText = `Status: ${res.status} ${res.statusText} (${time}ms)`;
+        document.getElementById('responseStatus').style.color = res.ok ? '#10b981' : '#ef4444';
+        viewer.innerText = JSON.stringify(json, null, 2);
+      } catch (err) {
+        viewer.innerText = 'Request failed: ' + err.message;
+      }
+    }
+
+    function copyJson() {
+      const text = document.getElementById('jsonViewer').innerText;
+      navigator.clipboard.writeText(text).then(() => {
+        alert('Copied JSON to clipboard!');
+      });
+    }
+
+    function switchTab(tab) {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.getElementById('tab-catalog').style.display = tab === 'catalog' ? 'block' : 'none';
+      document.getElementById('tab-console').style.display = tab === 'console' ? 'block' : 'none';
+      document.getElementById('tab-metrics').style.display = tab === 'metrics' ? 'block' : 'none';
+
+      if (tab === 'catalog') document.querySelectorAll('.tab-btn')[0].classList.add('active');
+      if (tab === 'console') {
+        document.querySelectorAll('.tab-btn')[1].classList.add('active');
+        fetchEndpoint('/api/products?limit=5');
+      }
+      if (tab === 'metrics') document.querySelectorAll('.tab-btn')[2].classList.add('active');
+    }
+
+    window.onload = init;
+  </script>
+</body>
+</html>

@@ -1,0 +1,87 @@
+### Express Products API - HTTP Client Requests
+@baseUrl = http://localhost:5000
+
+### 1. API Root & Documentation
+GET {{baseUrl}}/
+
+### 2. Health Check
+GET {{baseUrl}}/health
+
+### 3. Get Products (Default: First 10 items)
+GET {{baseUrl}}/api/products
+
+### 4. Get Products with Pagination (Page 2, Limit 5)
+GET {{baseUrl}}/api/products?page=2&limit=5
+
+### 5. Get All 100 Products (all=true)
+GET {{baseUrl}}/api/products?all=true
+
+### 6. Filter by Category
+GET {{baseUrl}}/api/products?category=Electronics
+
+### 7. Search Products (e.g. "wireless" or "coffee")
+GET {{baseUrl}}/api/products?q=wireless
+
+### 8. Filter by Price Range ($50 to $200)
+GET {{baseUrl}}/api/products?minPrice=50&maxPrice=200
+
+### 9. Filter by In Stock & Minimum Rating (Rating >= 4.7)
+GET {{baseUrl}}/api/products?inStock=true&minRating=4.7
+
+### 10. Sort by Price Descending
+GET {{baseUrl}}/api/products?sortBy=price&order=desc
+
+### 11. Get Distinct Categories with Item Counts
+GET {{baseUrl}}/api/products/categories
+
+### 12. Get Aggregated Statistics
+GET {{baseUrl}}/api/products/stats
+
+### 13. Get Single Product by ID
+GET {{baseUrl}}/api/products/1
+
+### 14. Create a New Product (POST)
+POST {{baseUrl}}/api/products
+Content-Type: application/json
+
+{
+  "title": "AeroFlight Pro Carbon Drone",
+  "description": "Professional 8K camera drone with dual obstacle avoidance sensors.",
+  "category": "Electronics",
+  "price": 899.99,
+  "discountPercentage": 10.0,
+  "rating": 4.9,
+  "stock": 18,
+  "brand": "AeroTech",
+  "tags": ["drone", "camera", "8k", "wireless"]
+}
+
+### 15. Update Product (PUT - Full Replace)
+PUT {{baseUrl}}/api/products/1
+Content-Type: application/json
+
+{
+  "title": "UltraSound Pro Noise-Cancelling Headphones (Gen 2)",
+  "description": "Updated version with 40-hour battery and spatial audio support.",
+  "category": "Electronics",
+  "price": 329.99,
+  "discountPercentage": 10.0,
+  "rating": 4.9,
+  "stock": 50,
+  "brand": "AuraTech"
+}
+
+### 16. Partial Update (PATCH)
+PATCH {{baseUrl}}/api/products/1
+Content-Type: application/json
+
+{
+  "price": 279.99,
+  "stock": 60
+}
+
+### 17. Delete Product by ID
+DELETE {{baseUrl}}/api/products/101
+
+### 18. Reset Dataset Back to 100 Products
+POST {{baseUrl}}/api/products/reset

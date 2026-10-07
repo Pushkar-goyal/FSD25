@@ -1,0 +1,2600 @@
+[
+  {
+    "id": 1,
+    "title": "UltraSound Pro Noise-Cancelling Headphones",
+    "description": "High performance ultrasound pro noise-cancelling headphones crafted by AuraTech. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Electronics category.",
+    "category": "Electronics",
+    "price": 299.99,
+    "discountPercentage": 12.5,
+    "rating": 4.8,
+    "stock": 45,
+    "brand": "AuraTech",
+    "sku": "ELEC-001",
+    "tags": [
+      "audio",
+      "bluetooth",
+      "noise-cancelling",
+      "wireless"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-1?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-1-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-1-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-03T20:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "PulseFit Smartwatch Series 7",
+    "description": "High performance pulsefit smartwatch series 7 crafted by Chronos. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Electronics category.",
+    "category": "Electronics",
+    "price": 199.5,
+    "discountPercentage": 15,
+    "rating": 4.6,
+    "stock": 80,
+    "brand": "Chronos",
+    "sku": "ELEC-002",
+    "tags": [
+      "wearable",
+      "smartwatch",
+      "fitness",
+      "waterproof"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-2?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-2-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-2-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-06T08:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "ZenView 27-inch 4K UHD Monitor",
+    "description": "High performance zenview 27-inch 4k uhd monitor crafted by Visionix. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Electronics category.",
+    "category": "Electronics",
+    "price": 449,
+    "discountPercentage": 8,
+    "rating": 4.7,
+    "stock": 25,
+    "brand": "Visionix",
+    "sku": "ELEC-003",
+    "tags": [
+      "monitor",
+      "4k",
+      "ips",
+      "display"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-3?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-3-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-3-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-08T20:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Quantum Mechanical Gaming Keyboard",
+    "description": "High performance quantum mechanical gaming keyboard crafted by VortexKey. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Electronics category.",
+    "category": "Electronics",
+    "price": 129.99,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "stock": 60,
+    "brand": "VortexKey",
+    "sku": "ELEC-004",
+    "tags": [
+      "keyboard",
+      "gaming",
+      "rgb",
+      "mechanical"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-4?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-4-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-4-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-11T08:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": "GlideFlow Ergonomic Wireless Mouse",
+    "description": "High performance glideflow ergonomic wireless mouse crafted by ErgoLogic. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Electronics category.",
+    "category": "Electronics",
+    "price": 69.95,
+    "discountPercentage": 5,
+    "rating": 4.5,
+    "stock": 110,
+    "brand": "ErgoLogic",
+    "sku": "ELEC-005",
+    "tags": [
+      "mouse",
+      "ergonomic",
+      "wireless",
+      "office"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-5?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-5-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-5-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-13T20:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "title": "TitanSound Portable Waterproof Speaker",
+    "description": "High performance titansound portable waterproof speaker crafted by BassWave. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Electronics category.",
+    "category": "Electronics",
+    "price": 89.99,
+    "discountPercentage": 20,
+    "rating": 4.7,
+    "stock": 95,
+    "brand": "BassWave",
+    "sku": "ELEC-006",
+    "tags": [
+      "speaker",
+      "bluetooth",
+      "outdoor",
+      "waterproof"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-6?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-6-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-6-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-16T08:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "title": "AeroTab Pro 11-inch Tablet 128GB",
+    "description": "High performance aerotab pro 11-inch tablet 128gb crafted by Nexis. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Electronics category.",
+    "category": "Electronics",
+    "price": 549,
+    "discountPercentage": 10,
+    "rating": 4.6,
+    "stock": 35,
+    "brand": "Nexis",
+    "sku": "ELEC-007",
+    "tags": [
+      "tablet",
+      "touchscreen",
+      "portable",
+      "android"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-7?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-7-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-7-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-18T20:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "title": "HyperBeam 4K HDR Home Cinema Projector",
+    "description": "High performance hyperbeam 4k hdr home cinema projector crafted by LumaView. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Electronics category.",
+    "category": "Electronics",
+    "price": 799.99,
+    "discountPercentage": 18,
+    "rating": 4.4,
+    "stock": 18,
+    "brand": "LumaView",
+    "sku": "ELEC-008",
+    "tags": [
+      "projector",
+      "cinema",
+      "4k",
+      "hdr"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-8?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-8-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-8-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-21T08:00:00.000Z"
+  },
+  {
+    "id": 9,
+    "title": "SonicPods True Wireless Earbuds",
+    "description": "High performance sonicpods true wireless earbuds crafted by AuraTech. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Electronics category.",
+    "category": "Electronics",
+    "price": 119,
+    "discountPercentage": 15,
+    "rating": 4.6,
+    "stock": 120,
+    "brand": "AuraTech",
+    "sku": "ELEC-009",
+    "tags": [
+      "audio",
+      "earbuds",
+      "wireless",
+      "anc"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-9?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-9-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-9-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-23T20:00:00.000Z"
+  },
+  {
+    "id": 10,
+    "title": "OmniPower 65W GaN Fast Charger",
+    "description": "High performance omnipower 65w gan fast charger crafted by VoltCore. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Electronics category.",
+    "category": "Electronics",
+    "price": 39.99,
+    "discountPercentage": 5,
+    "rating": 4.8,
+    "stock": 140,
+    "brand": "VoltCore",
+    "sku": "ELEC-010",
+    "tags": [
+      "charger",
+      "usb-c",
+      "fast-charge",
+      "gan"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-10?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-10-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-10-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-26T08:00:00.000Z"
+  },
+  {
+    "id": 11,
+    "title": "Heritage Raw Denim Trucker Jacket",
+    "description": "High performance heritage raw denim trucker jacket crafted by DenimCraft. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Clothing & Fashion category.",
+    "category": "Clothing & Fashion",
+    "price": 120,
+    "discountPercentage": 10,
+    "rating": 4.7,
+    "stock": 50,
+    "brand": "DenimCraft",
+    "sku": "CLTH-001",
+    "tags": [
+      "jacket",
+      "denim",
+      "outerwear",
+      "casual"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-11?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-11-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-11-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-28T20:00:00.000Z"
+  },
+  {
+    "id": 12,
+    "title": "Organic Pima Cotton Crewneck Tee",
+    "description": "High performance organic pima cotton crewneck tee crafted by PureWeave. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Clothing & Fashion category.",
+    "category": "Clothing & Fashion",
+    "price": 34.5,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "stock": 150,
+    "brand": "PureWeave",
+    "sku": "CLTH-002",
+    "tags": [
+      "t-shirt",
+      "cotton",
+      "basics",
+      "sustainable"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-12?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-12-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-12-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-01-31T08:00:00.000Z"
+  },
+  {
+    "id": 13,
+    "title": "Tailored Stretch Chino Pants",
+    "description": "High performance tailored stretch chino pants crafted by UrbanStitch. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Clothing & Fashion category.",
+    "category": "Clothing & Fashion",
+    "price": 68,
+    "discountPercentage": 15,
+    "rating": 4.5,
+    "stock": 85,
+    "brand": "UrbanStitch",
+    "sku": "CLTH-003",
+    "tags": [
+      "pants",
+      "chinos",
+      "stretch",
+      "menswear"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-13?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-13-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-13-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-02-02T20:00:00.000Z"
+  },
+  {
+    "id": 14,
+    "title": "Pure Merino Wool Crew Sweater",
+    "description": "High performance pure merino wool crew sweater crafted by HighlandWools. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Clothing & Fashion category.",
+    "category": "Clothing & Fashion",
+    "price": 135,
+    "discountPercentage": 20,
+    "rating": 4.9,
+    "stock": 40,
+    "brand": "HighlandWools",
+    "sku": "CLTH-004",
+    "tags": [
+      "sweater",
+      "merino",
+      "wool",
+      "winter"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-14?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-14-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-14-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-02-05T08:00:00.000Z"
+  },
+  {
+    "id": 15,
+    "title": "StormShield All-Weather Trench Coat",
+    "description": "High performance stormshield all-weather trench coat crafted by WeatherGuard. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Clothing & Fashion category.",
+    "category": "Clothing & Fashion",
+    "price": 210,
+    "discountPercentage": 12,
+    "rating": 4.6,
+    "stock": 30,
+    "brand": "WeatherGuard",
+    "sku": "CLTH-005",
+    "tags": [
+      "coat",
+      "waterproof",
+      "outerwear",
+      "formal"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-15?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-15-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-15-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-02-07T20:00:00.000Z"
+  },
+  {
+    "id": 16,
+    "title": "AeroFlex Breathable Running Shorts",
+    "description": "High performance aeroflex breathable running shorts crafted by Velocity. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Clothing & Fashion category.",
+    "category": "Clothing & Fashion",
+    "price": 42,
+    "discountPercentage": 10,
+    "rating": 4.4,
+    "stock": 110,
+    "brand": "Velocity",
+    "sku": "CLTH-006",
+    "tags": [
+      "shorts",
+      "running",
+      "athletic",
+      "gym"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-16?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-16-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-16-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-02-10T08:00:00.000Z"
+  },
+  {
+    "id": 17,
+    "title": "Classic Top-Grain Leather Belt",
+    "description": "High performance classic top-grain leather belt crafted by Ox & Hide. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Clothing & Fashion category.",
+    "category": "Clothing & Fashion",
+    "price": 48,
+    "discountPercentage": 5,
+    "rating": 4.7,
+    "stock": 95,
+    "brand": "Ox & Hide",
+    "sku": "CLTH-007",
+    "tags": [
+      "belt",
+      "leather",
+      "accessories",
+      "wardrobe"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-17?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-17-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-17-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-02-12T20:00:00.000Z"
+  },
+  {
+    "id": 18,
+    "title": "Relaxed Fit Linen Button-Down Shirt",
+    "description": "High performance relaxed fit linen button-down shirt crafted by BreezeWear. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Clothing & Fashion category.",
+    "category": "Clothing & Fashion",
+    "price": 59.99,
+    "discountPercentage": 10,
+    "rating": 4.5,
+    "stock": 75,
+    "brand": "BreezeWear",
+    "sku": "CLTH-008",
+    "tags": [
+      "shirt",
+      "linen",
+      "summer",
+      "casual"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-18?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-18-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-18-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-02-15T08:00:00.000Z"
+  },
+  {
+    "id": 19,
+    "title": "Water-Resistant Commuter Backpack",
+    "description": "High performance water-resistant commuter backpack crafted by PackSmart. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Clothing & Fashion category.",
+    "category": "Clothing & Fashion",
+    "price": 89,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 65,
+    "brand": "PackSmart",
+    "sku": "CLTH-009",
+    "tags": [
+      "backpack",
+      "travel",
+      "commute",
+      "waterproof"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-19?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-19-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-19-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-02-17T20:00:00.000Z"
+  },
+  {
+    "id": 20,
+    "title": "Cushioned Merino Wool Hiking Socks 3-Pack",
+    "description": "High performance cushioned merino wool hiking socks 3-pack crafted by HighlandWools. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Clothing & Fashion category.",
+    "category": "Clothing & Fashion",
+    "price": 28,
+    "discountPercentage": 0,
+    "rating": 4.9,
+    "stock": 130,
+    "brand": "HighlandWools",
+    "sku": "CLTH-010",
+    "tags": [
+      "socks",
+      "hiking",
+      "wool",
+      "accessories"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-20?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-20-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-20-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-02-20T08:00:00.000Z"
+  },
+  {
+    "id": 21,
+    "title": "Barista Touch Espresso Machine",
+    "description": "High performance barista touch espresso machine crafted by BrewMaster. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Home & Kitchen category.",
+    "category": "Home & Kitchen",
+    "price": 599.99,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "stock": 22,
+    "brand": "BrewMaster",
+    "sku": "HOME-001",
+    "tags": [
+      "coffee",
+      "espresso",
+      "appliances",
+      "kitchen"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-21?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-21-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-21-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-02-22T20:00:00.000Z"
+  },
+  {
+    "id": 22,
+    "title": "Pre-Seasoned Cast Iron Skillet 12-inch",
+    "description": "High performance pre-seasoned cast iron skillet 12-inch crafted by IronStone. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Home & Kitchen category.",
+    "category": "Home & Kitchen",
+    "price": 44.95,
+    "discountPercentage": 8,
+    "rating": 4.8,
+    "stock": 90,
+    "brand": "IronStone",
+    "sku": "HOME-002",
+    "tags": [
+      "cookware",
+      "cast-iron",
+      "skillet",
+      "kitchen"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-22?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-22-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-22-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-02-25T08:00:00.000Z"
+  },
+  {
+    "id": 23,
+    "title": "CrispWave XXL Digital Air Fryer",
+    "description": "High performance crispwave xxl digital air fryer crafted by AeroChef. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Home & Kitchen category.",
+    "category": "Home & Kitchen",
+    "price": 119.99,
+    "discountPercentage": 25,
+    "rating": 4.7,
+    "stock": 55,
+    "brand": "AeroChef",
+    "sku": "HOME-003",
+    "tags": [
+      "air-fryer",
+      "appliances",
+      "healthy",
+      "cooking"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-23?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-23-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-23-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-02-27T20:00:00.000Z"
+  },
+  {
+    "id": 24,
+    "title": "CleanBot L10 Smart Robot Vacuum & Mop",
+    "description": "High performance cleanbot l10 smart robot vacuum & mop crafted by RoboHome. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Home & Kitchen category.",
+    "category": "Home & Kitchen",
+    "price": 379,
+    "discountPercentage": 15,
+    "rating": 4.5,
+    "stock": 32,
+    "brand": "RoboHome",
+    "sku": "HOME-004",
+    "tags": [
+      "vacuum",
+      "smart-home",
+      "cleaning",
+      "robot"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-24?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-24-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-24-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-02T08:00:00.000Z"
+  },
+  {
+    "id": 25,
+    "title": "Japanese Damascus Steel Chef Knife 8-inch",
+    "description": "High performance japanese damascus steel chef knife 8-inch crafted by KatanaBlade. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Home & Kitchen category.",
+    "category": "Home & Kitchen",
+    "price": 89.5,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "stock": 45,
+    "brand": "KatanaBlade",
+    "sku": "HOME-005",
+    "tags": [
+      "knife",
+      "cutlery",
+      "chef",
+      "cooking"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-25?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-25-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-25-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-04T20:00:00.000Z"
+  },
+  {
+    "id": 26,
+    "title": "Precision Gooseneck Electric Kettle",
+    "description": "High performance precision gooseneck electric kettle crafted by BrewMaster. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Home & Kitchen category.",
+    "category": "Home & Kitchen",
+    "price": 74.99,
+    "discountPercentage": 12,
+    "rating": 4.8,
+    "stock": 70,
+    "brand": "BrewMaster",
+    "sku": "HOME-006",
+    "tags": [
+      "kettle",
+      "tea",
+      "coffee",
+      "temperature-control"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-26?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-26-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-26-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-07T08:00:00.000Z"
+  },
+  {
+    "id": 27,
+    "title": "Organic Bamboo End-Grain Cutting Board",
+    "description": "High performance organic bamboo end-grain cutting board crafted by EcoBoard. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Home & Kitchen category.",
+    "category": "Home & Kitchen",
+    "price": 39.99,
+    "discountPercentage": 5,
+    "rating": 4.7,
+    "stock": 80,
+    "brand": "EcoBoard",
+    "sku": "HOME-007",
+    "tags": [
+      "cutting-board",
+      "bamboo",
+      "kitchen",
+      "wood"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-27?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-27-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-27-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-09T20:00:00.000Z"
+  },
+  {
+    "id": 28,
+    "title": "PowerBlend Pro 1500W Blender",
+    "description": "High performance powerblend pro 1500w blender crafted by VortexKitchen. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Home & Kitchen category.",
+    "category": "Home & Kitchen",
+    "price": 149,
+    "discountPercentage": 20,
+    "rating": 4.6,
+    "stock": 48,
+    "brand": "VortexKitchen",
+    "sku": "HOME-008",
+    "tags": [
+      "blender",
+      "smoothie",
+      "appliances",
+      "kitchen"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-28?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-28-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-28-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-12T08:00:00.000Z"
+  },
+  {
+    "id": 29,
+    "title": "Ergonomic Cooling Gel Memory Foam Pillow",
+    "description": "High performance ergonomic cooling gel memory foam pillow crafted by RestCloud. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Home & Kitchen category.",
+    "category": "Home & Kitchen",
+    "price": 49.99,
+    "discountPercentage": 15,
+    "rating": 4.6,
+    "stock": 100,
+    "brand": "RestCloud",
+    "sku": "HOME-009",
+    "tags": [
+      "bedding",
+      "pillow",
+      "memory-foam",
+      "sleep"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-29?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-29-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-29-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-14T20:00:00.000Z"
+  },
+  {
+    "id": 30,
+    "title": "AromaMist Ultrasonic Essential Oil Diffuser",
+    "description": "High performance aromamist ultrasonic essential oil diffuser crafted by ZenAtmosphere. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Home & Kitchen category.",
+    "category": "Home & Kitchen",
+    "price": 32.5,
+    "discountPercentage": 0,
+    "rating": 4.5,
+    "stock": 115,
+    "brand": "ZenAtmosphere",
+    "sku": "HOME-010",
+    "tags": [
+      "aromatherapy",
+      "diffuser",
+      "wellness",
+      "home"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-30?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-30-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-30-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-17T08:00:00.000Z"
+  },
+  {
+    "id": 31,
+    "title": "QuickSelect Adjustable Dumbbell Pair 50lbs",
+    "description": "High performance quickselect adjustable dumbbell pair 50lbs crafted by FlexIron. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Sports & Fitness category.",
+    "category": "Sports & Fitness",
+    "price": 329,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "stock": 28,
+    "brand": "FlexIron",
+    "sku": "SPRT-001",
+    "tags": [
+      "fitness",
+      "weights",
+      "dumbbells",
+      "gym"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-31?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-31-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-31-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-19T20:00:00.000Z"
+  },
+  {
+    "id": 32,
+    "title": "GripPro Non-Slip Natural Rubber Yoga Mat",
+    "description": "High performance grippro non-slip natural rubber yoga mat crafted by ZenMotion. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Sports & Fitness category.",
+    "category": "Sports & Fitness",
+    "price": 58,
+    "discountPercentage": 12,
+    "rating": 4.9,
+    "stock": 85,
+    "brand": "ZenMotion",
+    "sku": "SPRT-002",
+    "tags": [
+      "yoga",
+      "mat",
+      "exercise",
+      "pilates"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-32?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-32-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-32-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-22T08:00:00.000Z"
+  },
+  {
+    "id": 33,
+    "title": "Apex Speed Carbon Fiber Road Bike",
+    "description": "High performance apex speed carbon fiber road bike crafted by Veloce. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Sports & Fitness category.",
+    "category": "Sports & Fitness",
+    "price": 1299,
+    "discountPercentage": 5,
+    "rating": 4.7,
+    "stock": 12,
+    "brand": "Veloce",
+    "sku": "SPRT-003",
+    "tags": [
+      "cycling",
+      "bike",
+      "road-bike",
+      "outdoor"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-33?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-33-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-33-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-24T20:00:00.000Z"
+  },
+  {
+    "id": 34,
+    "title": "Heavy-Duty Resistance Loop Bands Set of 5",
+    "description": "High performance heavy-duty resistance loop bands set of 5 crafted by FitTribe. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Sports & Fitness category.",
+    "category": "Sports & Fitness",
+    "price": 24.99,
+    "discountPercentage": 0,
+    "rating": 4.7,
+    "stock": 140,
+    "brand": "FitTribe",
+    "sku": "SPRT-004",
+    "tags": [
+      "resistance-bands",
+      "fitness",
+      "workout",
+      "portable"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-34?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-34-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-34-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-27T08:00:00.000Z"
+  },
+  {
+    "id": 35,
+    "title": "HydroShield 32oz Insulated Stainless Bottle",
+    "description": "High performance hydroshield 32oz insulated stainless bottle crafted by AquaVault. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Sports & Fitness category.",
+    "category": "Sports & Fitness",
+    "price": 34,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "stock": 125,
+    "brand": "AquaVault",
+    "sku": "SPRT-005",
+    "tags": [
+      "water-bottle",
+      "hydration",
+      "insulated",
+      "gym"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-35?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-35-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-35-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-03-29T20:00:00.000Z"
+  },
+  {
+    "id": 36,
+    "title": "EnduroPulse GPS Multisport Watch",
+    "description": "High performance enduropulse gps multisport watch crafted by Chronos. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Sports & Fitness category.",
+    "category": "Sports & Fitness",
+    "price": 289,
+    "discountPercentage": 15,
+    "rating": 4.6,
+    "stock": 40,
+    "brand": "Chronos",
+    "sku": "SPRT-006",
+    "tags": [
+      "gps",
+      "smartwatch",
+      "running",
+      "triathlon"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-36?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-36-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-36-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-01T08:00:00.000Z"
+  },
+  {
+    "id": 37,
+    "title": "FoldEase Space-Saving Treadmill",
+    "description": "High performance foldease space-saving treadmill crafted by AeroStep. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Sports & Fitness category.",
+    "category": "Sports & Fitness",
+    "price": 499,
+    "discountPercentage": 20,
+    "rating": 4.4,
+    "stock": 16,
+    "brand": "AeroStep",
+    "sku": "SPRT-007",
+    "tags": [
+      "treadmill",
+      "cardio",
+      "home-gym",
+      "running"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-37?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-37-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-37-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-03T20:00:00.000Z"
+  },
+  {
+    "id": 38,
+    "title": "Cast Iron Competition Kettlebell 16kg",
+    "description": "High performance cast iron competition kettlebell 16kg crafted by FlexIron. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Sports & Fitness category.",
+    "category": "Sports & Fitness",
+    "price": 65,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "stock": 60,
+    "brand": "FlexIron",
+    "sku": "SPRT-008",
+    "tags": [
+      "kettlebell",
+      "strength",
+      "crossfit",
+      "weights"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-38?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-38-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-38-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-06T08:00:00.000Z"
+  },
+  {
+    "id": 39,
+    "title": "ProCombat Leather Boxing Gloves 14oz",
+    "description": "High performance procombat leather boxing gloves 14oz crafted by StrikeForce. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Sports & Fitness category.",
+    "category": "Sports & Fitness",
+    "price": 79.99,
+    "discountPercentage": 10,
+    "rating": 4.7,
+    "stock": 50,
+    "brand": "StrikeForce",
+    "sku": "SPRT-009",
+    "tags": [
+      "boxing",
+      "combat",
+      "gloves",
+      "sparring"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-39?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-39-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-39-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-08T20:00:00.000Z"
+  },
+  {
+    "id": 40,
+    "title": "TerraGrip Waterproof Trail Running Shoes",
+    "description": "High performance terragrip waterproof trail running shoes crafted by StridePeak. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Sports & Fitness category.",
+    "category": "Sports & Fitness",
+    "price": 139.5,
+    "discountPercentage": 15,
+    "rating": 4.6,
+    "stock": 70,
+    "brand": "StridePeak",
+    "sku": "SPRT-010",
+    "tags": [
+      "shoes",
+      "trail-running",
+      "hiking",
+      "footwear"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-40?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-40-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-40-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-11T08:00:00.000Z"
+  },
+  {
+    "id": 41,
+    "title": "PureHydra Hyaluronic Acid Facial Serum",
+    "description": "High performance purehydra hyaluronic acid facial serum crafted by DermaGlow. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Beauty & Personal Care category.",
+    "category": "Beauty & Personal Care",
+    "price": 28,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "stock": 135,
+    "brand": "DermaGlow",
+    "sku": "BEAU-001",
+    "tags": [
+      "skincare",
+      "serum",
+      "hydrating",
+      "anti-aging"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-41?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-41-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-41-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-13T20:00:00.000Z"
+  },
+  {
+    "id": 42,
+    "title": "Radiance Vitamin C Brightening Cream",
+    "description": "High performance radiance vitamin c brightening cream crafted by DermaGlow. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Beauty & Personal Care category.",
+    "category": "Beauty & Personal Care",
+    "price": 36.5,
+    "discountPercentage": 12,
+    "rating": 4.7,
+    "stock": 90,
+    "brand": "DermaGlow",
+    "sku": "BEAU-002",
+    "tags": [
+      "skincare",
+      "moisturizer",
+      "vitamin-c",
+      "glow"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-42?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-42-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-42-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-16T08:00:00.000Z"
+  },
+  {
+    "id": 43,
+    "title": "SonicCleanse Pro Electric Toothbrush",
+    "description": "High performance soniccleanse pro electric toothbrush crafted by DentaCare. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Beauty & Personal Care category.",
+    "category": "Beauty & Personal Care",
+    "price": 79.99,
+    "discountPercentage": 20,
+    "rating": 4.8,
+    "stock": 80,
+    "brand": "DentaCare",
+    "sku": "BEAU-003",
+    "tags": [
+      "oral-care",
+      "electric-toothbrush",
+      "hygiene",
+      "rechargeable"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-43?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-43-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-43-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-18T20:00:00.000Z"
+  },
+  {
+    "id": 44,
+    "title": "Mineral Shield Invisible Sunscreen SPF 50",
+    "description": "High performance mineral shield invisible sunscreen spf 50 crafted by SunSip. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Beauty & Personal Care category.",
+    "category": "Beauty & Personal Care",
+    "price": 24,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "stock": 110,
+    "brand": "SunSip",
+    "sku": "BEAU-004",
+    "tags": [
+      "sunscreen",
+      "spf50",
+      "skincare",
+      "protection"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-44?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-44-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-44-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-21T08:00:00.000Z"
+  },
+  {
+    "id": 45,
+    "title": "Moroccan Argan Intensive Hair Repair Mask",
+    "description": "High performance moroccan argan intensive hair repair mask crafted by Botanique. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Beauty & Personal Care category.",
+    "category": "Beauty & Personal Care",
+    "price": 32,
+    "discountPercentage": 15,
+    "rating": 4.6,
+    "stock": 65,
+    "brand": "Botanique",
+    "sku": "BEAU-005",
+    "tags": [
+      "haircare",
+      "argan-oil",
+      "conditioner",
+      "repair"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-45?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-45-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-45-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-23T20:00:00.000Z"
+  },
+  {
+    "id": 46,
+    "title": "Gentle Calendula Foaming Facial Cleanser",
+    "description": "High performance gentle calendula foaming facial cleanser crafted by PurePore. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Beauty & Personal Care category.",
+    "category": "Beauty & Personal Care",
+    "price": 22,
+    "discountPercentage": 5,
+    "rating": 4.7,
+    "stock": 120,
+    "brand": "PurePore",
+    "sku": "BEAU-006",
+    "tags": [
+      "cleanser",
+      "face-wash",
+      "gentle",
+      "sensitive-skin"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-46?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-46-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-46-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-26T08:00:00.000Z"
+  },
+  {
+    "id": 47,
+    "title": "Precision Titanium Beard & Hair Trimmer",
+    "description": "High performance precision titanium beard & hair trimmer crafted by GroomBaron. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Beauty & Personal Care category.",
+    "category": "Beauty & Personal Care",
+    "price": 54.95,
+    "discountPercentage": 10,
+    "rating": 4.6,
+    "stock": 75,
+    "brand": "GroomBaron",
+    "sku": "BEAU-007",
+    "tags": [
+      "grooming",
+      "shaver",
+      "trimmer",
+      "mens-care"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-47?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-47-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-47-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-04-28T20:00:00.000Z"
+  },
+  {
+    "id": 48,
+    "title": "Detox French Green Clay Face Mask",
+    "description": "High performance detox french green clay face mask crafted by Botanique. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Beauty & Personal Care category.",
+    "category": "Beauty & Personal Care",
+    "price": 26.5,
+    "discountPercentage": 0,
+    "rating": 4.5,
+    "stock": 85,
+    "brand": "Botanique",
+    "sku": "BEAU-008",
+    "tags": [
+      "face-mask",
+      "clay",
+      "detox",
+      "pores"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-48?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-48-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-48-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-01T08:00:00.000Z"
+  },
+  {
+    "id": 49,
+    "title": "Midnight Renewal Retinol 0.5% Night Cream",
+    "description": "High performance midnight renewal retinol 0.5% night cream crafted by DermaGlow. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Beauty & Personal Care category.",
+    "category": "Beauty & Personal Care",
+    "price": 44,
+    "discountPercentage": 18,
+    "rating": 4.8,
+    "stock": 55,
+    "brand": "DermaGlow",
+    "sku": "BEAU-009",
+    "tags": [
+      "retinol",
+      "night-cream",
+      "anti-wrinkle",
+      "skincare"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-49?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-49-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-49-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-03T20:00:00.000Z"
+  },
+  {
+    "id": 50,
+    "title": "Organic Damask Rose Hydrating Mist",
+    "description": "High performance organic damask rose hydrating mist crafted by PurePore. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Beauty & Personal Care category.",
+    "category": "Beauty & Personal Care",
+    "price": 19.99,
+    "discountPercentage": 0,
+    "rating": 4.6,
+    "stock": 105,
+    "brand": "PurePore",
+    "sku": "BEAU-010",
+    "tags": [
+      "toner",
+      "rosewater",
+      "hydration",
+      "facial-mist"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-50?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-50-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-50-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-06T08:00:00.000Z"
+  },
+  {
+    "id": 51,
+    "title": "Modern Distributed Systems in Practice",
+    "description": "High performance modern distributed systems in practice crafted by TechCraft Press. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Books & Stationery category.",
+    "category": "Books & Stationery",
+    "price": 49.99,
+    "discountPercentage": 5,
+    "rating": 4.9,
+    "stock": 65,
+    "brand": "TechCraft Press",
+    "sku": "BOOK-001",
+    "tags": [
+      "programming",
+      "systems",
+      "software",
+      "architecture"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-51?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-51-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-51-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-08T20:00:00.000Z"
+  },
+  {
+    "id": 52,
+    "title": "Full-Stack Web Architecture Handbook",
+    "description": "High performance full-stack web architecture handbook crafted by CodeCraft Publishing. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Books & Stationery category.",
+    "category": "Books & Stationery",
+    "price": 42.5,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "stock": 80,
+    "brand": "CodeCraft Publishing",
+    "sku": "BOOK-002",
+    "tags": [
+      "javascript",
+      "web-dev",
+      "full-stack",
+      "coding"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-52?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-52-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-52-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-11T08:00:00.000Z"
+  },
+  {
+    "id": 53,
+    "title": "The Clean Coder & Agile Craftsman",
+    "description": "High performance the clean coder & agile craftsman crafted by DevPress. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Books & Stationery category.",
+    "category": "Books & Stationery",
+    "price": 38,
+    "discountPercentage": 0,
+    "rating": 4.9,
+    "stock": 95,
+    "brand": "DevPress",
+    "sku": "BOOK-003",
+    "tags": [
+      "best-practices",
+      "software",
+      "career",
+      "agile"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-53?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-53-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-53-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-13T20:00:00.000Z"
+  },
+  {
+    "id": 54,
+    "title": "Hardcover 160 GSM Dotted Bullet Journal",
+    "description": "High performance hardcover 160 gsm dotted bullet journal crafted by ArtisanPaper. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Books & Stationery category.",
+    "category": "Books & Stationery",
+    "price": 23.99,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "stock": 110,
+    "brand": "ArtisanPaper",
+    "sku": "BOOK-004",
+    "tags": [
+      "notebook",
+      "bullet-journal",
+      "stationery",
+      "paper"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-54?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-54-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-54-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-16T08:00:00.000Z"
+  },
+  {
+    "id": 55,
+    "title": "Handcrafted Matte Black Fountain Pen Set",
+    "description": "High performance handcrafted matte black fountain pen set crafted by NobleQuill. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Books & Stationery category.",
+    "category": "Books & Stationery",
+    "price": 45,
+    "discountPercentage": 15,
+    "rating": 4.7,
+    "stock": 70,
+    "brand": "NobleQuill",
+    "sku": "BOOK-005",
+    "tags": [
+      "pen",
+      "fountain-pen",
+      "calligraphy",
+      "gift"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-55?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-55-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-55-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-18T20:00:00.000Z"
+  },
+  {
+    "id": 56,
+    "title": "Dual-Sided Eco Leather & Felt Desk Mat",
+    "description": "High performance dual-sided eco leather & felt desk mat crafted by DeskArmor. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Books & Stationery category.",
+    "category": "Books & Stationery",
+    "price": 29.99,
+    "discountPercentage": 8,
+    "rating": 4.7,
+    "stock": 130,
+    "brand": "DeskArmor",
+    "sku": "BOOK-006",
+    "tags": [
+      "desk-mat",
+      "stationery",
+      "leather",
+      "office"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-56?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-56-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-56-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-21T08:00:00.000Z"
+  },
+  {
+    "id": 57,
+    "title": "Precision Mechanical Drafting Pencil 0.5mm",
+    "description": "High performance precision mechanical drafting pencil 0.5mm crafted by Grafix. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Books & Stationery category.",
+    "category": "Books & Stationery",
+    "price": 16.5,
+    "discountPercentage": 0,
+    "rating": 4.6,
+    "stock": 140,
+    "brand": "Grafix",
+    "sku": "BOOK-007",
+    "tags": [
+      "pencil",
+      "drafting",
+      "sketching",
+      "drawing"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-57?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-57-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-57-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-23T20:00:00.000Z"
+  },
+  {
+    "id": 58,
+    "title": "Rechargeable Warm Amber LED Book Light",
+    "description": "High performance rechargeable warm amber led book light crafted by LuminaRead. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Books & Stationery category.",
+    "category": "Books & Stationery",
+    "price": 18.99,
+    "discountPercentage": 5,
+    "rating": 4.8,
+    "stock": 115,
+    "brand": "LuminaRead",
+    "sku": "BOOK-008",
+    "tags": [
+      "reading",
+      "book-light",
+      "rechargeable",
+      "gadget"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-58?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-58-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-58-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-26T08:00:00.000Z"
+  },
+  {
+    "id": 59,
+    "title": "Weekly Undated Focus & Productivity Planner",
+    "description": "High performance weekly undated focus & productivity planner crafted by ZenithGoals. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Books & Stationery category.",
+    "category": "Books & Stationery",
+    "price": 27.5,
+    "discountPercentage": 12,
+    "rating": 4.7,
+    "stock": 90,
+    "brand": "ZenithGoals",
+    "sku": "BOOK-009",
+    "tags": [
+      "planner",
+      "productivity",
+      "organization",
+      "journal"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-59?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-59-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-59-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-28T20:00:00.000Z"
+  },
+  {
+    "id": 60,
+    "title": "Erasable Dual-Tip Gel Ink Pens 8-Pack",
+    "description": "High performance erasable dual-tip gel ink pens 8-pack crafted by ColorFlow. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Books & Stationery category.",
+    "category": "Books & Stationery",
+    "price": 14.99,
+    "discountPercentage": 0,
+    "rating": 4.5,
+    "stock": 150,
+    "brand": "ColorFlow",
+    "sku": "BOOK-010",
+    "tags": [
+      "pens",
+      "gel-pens",
+      "erasable",
+      "stationery"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-60?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-60-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-60-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-05-31T08:00:00.000Z"
+  },
+  {
+    "id": 61,
+    "title": "6-Axis Robotic Arm STEM Coding Kit",
+    "description": "High performance 6-axis robotic arm stem coding kit crafted by RoboMaker. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Toys & Games category.",
+    "category": "Toys & Games",
+    "price": 119.99,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 35,
+    "brand": "RoboMaker",
+    "sku": "TOYS-001",
+    "tags": [
+      "stem",
+      "robotics",
+      "coding",
+      "educational"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-61?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-61-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-61-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-02T20:00:00.000Z"
+  },
+  {
+    "id": 62,
+    "title": "Hand-Carved Walnut & Maple Chess Set",
+    "description": "High performance hand-carved walnut & maple chess set crafted by Grandmaster. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Toys & Games category.",
+    "category": "Toys & Games",
+    "price": 95,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "stock": 40,
+    "brand": "Grandmaster",
+    "sku": "TOYS-002",
+    "tags": [
+      "chess",
+      "board-game",
+      "woodwork",
+      "classic"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-62?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-62-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-62-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-05T08:00:00.000Z"
+  },
+  {
+    "id": 63,
+    "title": "Celestial Galaxy 1000-Piece Panoramic Puzzle",
+    "description": "High performance celestial galaxy 1000-piece panoramic puzzle crafted by PuzzlePinnacle. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Toys & Games category.",
+    "category": "Toys & Games",
+    "price": 21.99,
+    "discountPercentage": 0,
+    "rating": 4.7,
+    "stock": 85,
+    "brand": "PuzzlePinnacle",
+    "sku": "TOYS-003",
+    "tags": [
+      "puzzle",
+      "jigsaw",
+      "galaxy",
+      "family"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-63?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-63-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-63-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-07T20:00:00.000Z"
+  },
+  {
+    "id": 64,
+    "title": "SkyExplorer 1080p Foldable Mini Drone",
+    "description": "High performance skyexplorer 1080p foldable mini drone crafted by AeroFly. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Toys & Games category.",
+    "category": "Toys & Games",
+    "price": 79.99,
+    "discountPercentage": 20,
+    "rating": 4.4,
+    "stock": 60,
+    "brand": "AeroFly",
+    "sku": "TOYS-004",
+    "tags": [
+      "drone",
+      "camera",
+      "rc",
+      "quadcopter"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-64?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-64-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-64-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-10T08:00:00.000Z"
+  },
+  {
+    "id": 65,
+    "title": "Settlers of Terra Strategy Board Game",
+    "description": "High performance settlers of terra strategy board game crafted by MythosGames. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Toys & Games category.",
+    "category": "Toys & Games",
+    "price": 54,
+    "discountPercentage": 12,
+    "rating": 4.9,
+    "stock": 75,
+    "brand": "MythosGames",
+    "sku": "TOYS-005",
+    "tags": [
+      "board-game",
+      "tabletop",
+      "strategy",
+      "multiplayer"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-65?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-65-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-65-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-12T20:00:00.000Z"
+  },
+  {
+    "id": 66,
+    "title": "Magnetic Geometry 3D Building Blocks 100pcs",
+    "description": "High performance magnetic geometry 3d building blocks 100pcs crafted by MagnaShape. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Toys & Games category.",
+    "category": "Toys & Games",
+    "price": 46.99,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "stock": 90,
+    "brand": "MagnaShape",
+    "sku": "TOYS-006",
+    "tags": [
+      "magnetic-tiles",
+      "building",
+      "toddler",
+      "creative"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-66?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-66-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-66-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-15T08:00:00.000Z"
+  },
+  {
+    "id": 67,
+    "title": "High-Speed All-Terrain RC Monster Buggy",
+    "description": "High performance high-speed all-terrain rc monster buggy crafted by VeloceRC. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Toys & Games category.",
+    "category": "Toys & Games",
+    "price": 68.5,
+    "discountPercentage": 15,
+    "rating": 4.5,
+    "stock": 55,
+    "brand": "VeloceRC",
+    "sku": "TOYS-007",
+    "tags": [
+      "rc-car",
+      "off-road",
+      "hobby",
+      "remote-control"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-67?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-67-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-67-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-17T20:00:00.000Z"
+  },
+  {
+    "id": 68,
+    "title": "Young Scientist 50+ Chemistry Experiments Lab",
+    "description": "High performance young scientist 50+ chemistry experiments lab crafted by StemLab. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Toys & Games category.",
+    "category": "Toys & Games",
+    "price": 39.99,
+    "discountPercentage": 5,
+    "rating": 4.7,
+    "stock": 70,
+    "brand": "StemLab",
+    "sku": "TOYS-008",
+    "tags": [
+      "science",
+      "chemistry",
+      "experiments",
+      "learning"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-68?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-68-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-68-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-20T08:00:00.000Z"
+  },
+  {
+    "id": 69,
+    "title": "Solid Beechwood Magnetic Train Railway Set",
+    "description": "High performance solid beechwood magnetic train railway set crafted by WoodWhimsy. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Toys & Games category.",
+    "category": "Toys & Games",
+    "price": 62,
+    "discountPercentage": 8,
+    "rating": 4.9,
+    "stock": 45,
+    "brand": "WoodWhimsy",
+    "sku": "TOYS-009",
+    "tags": [
+      "train-set",
+      "wooden-toys",
+      "kids",
+      "classic"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-69?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-69-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-69-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-22T20:00:00.000Z"
+  },
+  {
+    "id": 70,
+    "title": "Micro Programmable Rover with Ultrasonic Sensor",
+    "description": "High performance micro programmable rover with ultrasonic sensor crafted by RoboMaker. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Toys & Games category.",
+    "category": "Toys & Games",
+    "price": 49.99,
+    "discountPercentage": 10,
+    "rating": 4.6,
+    "stock": 50,
+    "brand": "RoboMaker",
+    "sku": "TOYS-010",
+    "tags": [
+      "stem",
+      "robot",
+      "sensor",
+      "arduino"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-70?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-70-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-70-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-25T08:00:00.000Z"
+  },
+  {
+    "id": 71,
+    "title": "Ethiopian Yirgacheffe Single-Origin Coffee Beans 1kg",
+    "description": "High performance ethiopian yirgacheffe single-origin coffee beans 1kg crafted by RoastMaster. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Gourmet Food & Beverages category.",
+    "category": "Gourmet Food & Beverages",
+    "price": 34,
+    "discountPercentage": 0,
+    "rating": 4.9,
+    "stock": 80,
+    "brand": "RoastMaster",
+    "sku": "FOOD-001",
+    "tags": [
+      "coffee",
+      "single-origin",
+      "artisan",
+      "beverage"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-71?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-71-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-71-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-27T20:00:00.000Z"
+  },
+  {
+    "id": 72,
+    "title": "Ceremonial Grade Uji Matcha Green Tea 100g",
+    "description": "High performance ceremonial grade uji matcha green tea 100g crafted by ZenTea. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Gourmet Food & Beverages category.",
+    "category": "Gourmet Food & Beverages",
+    "price": 32.5,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "stock": 65,
+    "brand": "ZenTea",
+    "sku": "FOOD-002",
+    "tags": [
+      "matcha",
+      "green-tea",
+      "japanese",
+      "organic"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-72?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-72-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-72-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-06-30T08:00:00.000Z"
+  },
+  {
+    "id": 73,
+    "title": "Cold-Pressed Extra Virgin Kalamata Olive Oil 1L",
+    "description": "High performance cold-pressed extra virgin kalamata olive oil 1l crafted by OlympusGroves. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Gourmet Food & Beverages category.",
+    "category": "Gourmet Food & Beverages",
+    "price": 29.99,
+    "discountPercentage": 5,
+    "rating": 4.9,
+    "stock": 90,
+    "brand": "OlympusGroves",
+    "sku": "FOOD-003",
+    "tags": [
+      "olive-oil",
+      "gourmet",
+      "cooking",
+      "mediterranean"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-73?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-73-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-73-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-02T20:00:00.000Z"
+  },
+  {
+    "id": 74,
+    "title": "Raw Wildflower Honey with Honeycomb 500g",
+    "description": "High performance raw wildflower honey with honeycomb 500g crafted by BeeHaven. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Gourmet Food & Beverages category.",
+    "category": "Gourmet Food & Beverages",
+    "price": 18.5,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "stock": 110,
+    "brand": "BeeHaven",
+    "sku": "FOOD-004",
+    "tags": [
+      "honey",
+      "raw",
+      "natural",
+      "sweetener"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-74?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-74-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-74-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-05T08:00:00.000Z"
+  },
+  {
+    "id": 75,
+    "title": "Artisanal Single-Origin Dark Chocolate Gift Box 12pcs",
+    "description": "High performance artisanal single-origin dark chocolate gift box 12pcs crafted by ChocoLuxe. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Gourmet Food & Beverages category.",
+    "category": "Gourmet Food & Beverages",
+    "price": 28,
+    "discountPercentage": 12,
+    "rating": 4.7,
+    "stock": 75,
+    "brand": "ChocoLuxe",
+    "sku": "FOOD-005",
+    "tags": [
+      "chocolate",
+      "sweets",
+      "gift",
+      "gourmet"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-75?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-75-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-75-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-07T20:00:00.000Z"
+  },
+  {
+    "id": 76,
+    "title": "Himalayan Pink Rock Salt Adjustable Mill",
+    "description": "High performance himalayan pink rock salt adjustable mill crafted by SpiceOrigin. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Gourmet Food & Beverages category.",
+    "category": "Gourmet Food & Beverages",
+    "price": 14.99,
+    "discountPercentage": 0,
+    "rating": 4.6,
+    "stock": 140,
+    "brand": "SpiceOrigin",
+    "sku": "FOOD-006",
+    "tags": [
+      "salt",
+      "seasoning",
+      "cooking",
+      "kitchen"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-76?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-76-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-76-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-10T08:00:00.000Z"
+  },
+  {
+    "id": 77,
+    "title": "Traditional Modena Balsamic Vinegar 12-Year Aged",
+    "description": "High performance traditional modena balsamic vinegar 12-year aged crafted by AcetoPrestigio. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Gourmet Food & Beverages category.",
+    "category": "Gourmet Food & Beverages",
+    "price": 48,
+    "discountPercentage": 8,
+    "rating": 4.9,
+    "stock": 40,
+    "brand": "AcetoPrestigio",
+    "sku": "FOOD-007",
+    "tags": [
+      "balsamic",
+      "italian",
+      "condiment",
+      "aged"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-77?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-77-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-77-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-12T20:00:00.000Z"
+  },
+  {
+    "id": 78,
+    "title": "Organic Chamomile & Lavender Herbal Sleep Tea 40 Bags",
+    "description": "High performance organic chamomile & lavender herbal sleep tea 40 bags crafted by ZenTea. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Gourmet Food & Beverages category.",
+    "category": "Gourmet Food & Beverages",
+    "price": 16.99,
+    "discountPercentage": 0,
+    "rating": 4.7,
+    "stock": 120,
+    "brand": "ZenTea",
+    "sku": "FOOD-008",
+    "tags": [
+      "tea",
+      "herbal",
+      "sleep",
+      "wellness"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-78?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-78-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-78-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-15T08:00:00.000Z"
+  },
+  {
+    "id": 79,
+    "title": "Smoked Barbecue Spice Rub Sampler Pack of 4",
+    "description": "High performance smoked barbecue spice rub sampler pack of 4 crafted by GrillFather. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Gourmet Food & Beverages category.",
+    "category": "Gourmet Food & Beverages",
+    "price": 22.5,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "stock": 95,
+    "brand": "GrillFather",
+    "sku": "FOOD-009",
+    "tags": [
+      "bbq",
+      "spices",
+      "rub",
+      "grilling"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-79?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-79-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-79-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-17T20:00:00.000Z"
+  },
+  {
+    "id": 80,
+    "title": "Pure Canadian Grade A Amber Maple Syrup 500ml",
+    "description": "High performance pure canadian grade a amber maple syrup 500ml crafted by NorthMaple. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Gourmet Food & Beverages category.",
+    "category": "Gourmet Food & Beverages",
+    "price": 19.99,
+    "discountPercentage": 5,
+    "rating": 4.9,
+    "stock": 100,
+    "brand": "NorthMaple",
+    "sku": "FOOD-010",
+    "tags": [
+      "maple-syrup",
+      "breakfast",
+      "organic",
+      "sweetener"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-80?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-80-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-80-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-20T08:00:00.000Z"
+  },
+  {
+    "id": 81,
+    "title": "ErgoComfort High-Back Mesh Desk Chair",
+    "description": "High performance ergocomfort high-back mesh desk chair crafted by ErgoLogic. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Office & Workstation category.",
+    "category": "Office & Workstation",
+    "price": 289,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 35,
+    "brand": "ErgoLogic",
+    "sku": "OFFC-001",
+    "tags": [
+      "chair",
+      "ergonomic",
+      "office",
+      "lumbar-support"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-81?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-81-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-81-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-22T20:00:00.000Z"
+  },
+  {
+    "id": 82,
+    "title": "Heavy-Duty Dual Monitor Gas Spring Arm Mount",
+    "description": "High performance heavy-duty dual monitor gas spring arm mount crafted by DeskArmor. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Office & Workstation category.",
+    "category": "Office & Workstation",
+    "price": 79.99,
+    "discountPercentage": 10,
+    "rating": 4.7,
+    "stock": 65,
+    "brand": "DeskArmor",
+    "sku": "OFFC-002",
+    "tags": [
+      "monitor-mount",
+      "dual-screen",
+      "desk-setup",
+      "ergonomic"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-82?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-82-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-82-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-25T08:00:00.000Z"
+  },
+  {
+    "id": 83,
+    "title": "Electric Height Adjustable Motorized Standing Desk",
+    "description": "High performance electric height adjustable motorized standing desk crafted by ApexLift. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Office & Workstation category.",
+    "category": "Office & Workstation",
+    "price": 429,
+    "discountPercentage": 18,
+    "rating": 4.9,
+    "stock": 20,
+    "brand": "ApexLift",
+    "sku": "OFFC-003",
+    "tags": [
+      "standing-desk",
+      "ergonomic",
+      "motorized",
+      "workspace"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-83?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-83-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-83-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-27T20:00:00.000Z"
+  },
+  {
+    "id": 84,
+    "title": "Under-Desk Steel Cable Management Spine & Tray",
+    "description": "High performance under-desk steel cable management spine & tray crafted by CableTidy. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Office & Workstation category.",
+    "category": "Office & Workstation",
+    "price": 29.95,
+    "discountPercentage": 0,
+    "rating": 4.6,
+    "stock": 110,
+    "brand": "CableTidy",
+    "sku": "OFFC-004",
+    "tags": [
+      "cable-management",
+      "desk-accessory",
+      "organization"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-84?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-84-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-84-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-07-30T08:00:00.000Z"
+  },
+  {
+    "id": 85,
+    "title": "Ventilated Aluminum Laptop Riser Stand",
+    "description": "High performance ventilated aluminum laptop riser stand crafted by LiftPro. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Office & Workstation category.",
+    "category": "Office & Workstation",
+    "price": 36,
+    "discountPercentage": 8,
+    "rating": 4.8,
+    "stock": 95,
+    "brand": "LiftPro",
+    "sku": "OFFC-005",
+    "tags": [
+      "laptop-stand",
+      "aluminum",
+      "ergonomic",
+      "portable"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-85?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-85-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-85-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-01T20:00:00.000Z"
+  },
+  {
+    "id": 86,
+    "title": "Architect Eye-Care LED Desk Lamp with USB Port",
+    "description": "High performance architect eye-care led desk lamp with usb port crafted by LumaWork. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Office & Workstation category.",
+    "category": "Office & Workstation",
+    "price": 45.99,
+    "discountPercentage": 12,
+    "rating": 4.7,
+    "stock": 85,
+    "brand": "LumaWork",
+    "sku": "OFFC-006",
+    "tags": [
+      "lamp",
+      "lighting",
+      "eye-care",
+      "desk"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-86?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-86-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-86-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-04T08:00:00.000Z"
+  },
+  {
+    "id": 87,
+    "title": "Ergonomic Angled Footrest with Massage Texture",
+    "description": "High performance ergonomic angled footrest with massage texture crafted by ErgoLogic. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Office & Workstation category.",
+    "category": "Office & Workstation",
+    "price": 34.5,
+    "discountPercentage": 5,
+    "rating": 4.5,
+    "stock": 100,
+    "brand": "ErgoLogic",
+    "sku": "OFFC-007",
+    "tags": [
+      "footrest",
+      "ergonomic",
+      "office-comfort"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-87?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-87-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-87-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-06T20:00:00.000Z"
+  },
+  {
+    "id": 88,
+    "title": "Noise-Cancelling USB-C Conference Speakerphone",
+    "description": "High performance noise-cancelling usb-c conference speakerphone crafted by VoiceLink. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Office & Workstation category.",
+    "category": "Office & Workstation",
+    "price": 119,
+    "discountPercentage": 10,
+    "rating": 4.6,
+    "stock": 45,
+    "brand": "VoiceLink",
+    "sku": "OFFC-008",
+    "tags": [
+      "speakerphone",
+      "conference",
+      "zoom",
+      "microphone"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-88?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-88-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-88-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-09T08:00:00.000Z"
+  },
+  {
+    "id": 89,
+    "title": "Multi-Port Aluminum 7-in-1 USB-C Hub & Dock",
+    "description": "High performance multi-port aluminum 7-in-1 usb-c hub & dock crafted by VoltCore. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Office & Workstation category.",
+    "category": "Office & Workstation",
+    "price": 49.99,
+    "discountPercentage": 15,
+    "rating": 4.7,
+    "stock": 90,
+    "brand": "VoltCore",
+    "sku": "OFFC-009",
+    "tags": [
+      "usb-c",
+      "hub",
+      "hdmi",
+      "dock"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-89?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-89-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-89-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-11T20:00:00.000Z"
+  },
+  {
+    "id": 90,
+    "title": "Broadcast USB Condenser Studio Microphone",
+    "description": "High performance broadcast usb condenser studio microphone crafted by AudioStream. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Office & Workstation category.",
+    "category": "Office & Workstation",
+    "price": 89.99,
+    "discountPercentage": 12,
+    "rating": 4.8,
+    "stock": 55,
+    "brand": "AudioStream",
+    "sku": "OFFC-010",
+    "tags": [
+      "microphone",
+      "podcast",
+      "streaming",
+      "audio"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-90?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-90-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-90-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-14T08:00:00.000Z"
+  },
+  {
+    "id": 91,
+    "title": "Magnetic MagSafe Qi Wireless Car Mount & Charger",
+    "description": "High performance magnetic magsafe qi wireless car mount & charger crafted by DriveTech. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Automotive & Travel category.",
+    "category": "Automotive & Travel",
+    "price": 39.99,
+    "discountPercentage": 10,
+    "rating": 4.7,
+    "stock": 100,
+    "brand": "DriveTech",
+    "sku": "AUTO-001",
+    "tags": [
+      "car-mount",
+      "wireless-charger",
+      "magsafe",
+      "phone"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-91?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-91-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-91-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-16T20:00:00.000Z"
+  },
+  {
+    "id": 92,
+    "title": "Smart Digital Cordless Tire Inflator 150 PSI",
+    "description": "High performance smart digital cordless tire inflator 150 psi crafted by AirForge. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Automotive & Travel category.",
+    "category": "Automotive & Travel",
+    "price": 59.99,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 75,
+    "brand": "AirForge",
+    "sku": "AUTO-002",
+    "tags": [
+      "tire-inflator",
+      "air-pump",
+      "emergency",
+      "portable"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-92?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-92-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-92-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-19T08:00:00.000Z"
+  },
+  {
+    "id": 93,
+    "title": "Dual 4K Front & 1080p Rear Dash Camera with GPS",
+    "description": "High performance dual 4k front & 1080p rear dash camera with gps crafted by RoadSentry. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Automotive & Travel category.",
+    "category": "Automotive & Travel",
+    "price": 139,
+    "discountPercentage": 20,
+    "rating": 4.6,
+    "stock": 45,
+    "brand": "RoadSentry",
+    "sku": "AUTO-003",
+    "tags": [
+      "dashcam",
+      "car-camera",
+      "safety",
+      "gps"
+    ],
+    "warrantyInformation": "2-year comprehensive manufacturer warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-93?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-93-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-93-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-21T20:00:00.000Z"
+  },
+  {
+    "id": 94,
+    "title": "Professional 12-Piece Auto Detailing Brush & Wash Kit",
+    "description": "High performance professional 12-piece auto detailing brush & wash kit crafted by ShineArmor. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Automotive & Travel category.",
+    "category": "Automotive & Travel",
+    "price": 34.5,
+    "discountPercentage": 8,
+    "rating": 4.7,
+    "stock": 85,
+    "brand": "ShineArmor",
+    "sku": "AUTO-004",
+    "tags": [
+      "detailing",
+      "car-wash",
+      "cleaning",
+      "brushes"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-94?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-94-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-94-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-24T08:00:00.000Z"
+  },
+  {
+    "id": 95,
+    "title": "Heavy-Duty All-Weather Deep Dish Floor Mats Set",
+    "description": "High performance heavy-duty all-weather deep dish floor mats set crafted by ToughTread. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Automotive & Travel category.",
+    "category": "Automotive & Travel",
+    "price": 69.99,
+    "discountPercentage": 10,
+    "rating": 4.5,
+    "stock": 50,
+    "brand": "ToughTread",
+    "sku": "AUTO-005",
+    "tags": [
+      "floor-mats",
+      "car-interior",
+      "waterproof",
+      "rubber"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-95?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-95-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-95-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-26T20:00:00.000Z"
+  },
+  {
+    "id": 96,
+    "title": "Bluetooth 5.3 FM Transmitter & Fast Car Charger",
+    "description": "High performance bluetooth 5.3 fm transmitter & fast car charger crafted by DriveTech. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Automotive & Travel category.",
+    "category": "Automotive & Travel",
+    "price": 21.99,
+    "discountPercentage": 0,
+    "rating": 4.6,
+    "stock": 130,
+    "brand": "DriveTech",
+    "sku": "AUTO-006",
+    "tags": [
+      "fm-transmitter",
+      "bluetooth",
+      "car-charger",
+      "audio"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-96?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-96-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-96-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-29T08:00:00.000Z"
+  },
+  {
+    "id": 97,
+    "title": "Collapsible Heavy-Duty Trunk Organizer with Cooler",
+    "description": "High performance collapsible heavy-duty trunk organizer with cooler crafted by PackSmart. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Automotive & Travel category.",
+    "category": "Automotive & Travel",
+    "price": 42,
+    "discountPercentage": 12,
+    "rating": 4.8,
+    "stock": 70,
+    "brand": "PackSmart",
+    "sku": "AUTO-007",
+    "tags": [
+      "trunk-organizer",
+      "storage",
+      "car-accessories",
+      "cooler"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-97?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-97-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-97-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-08-31T20:00:00.000Z"
+  },
+  {
+    "id": 98,
+    "title": "Waterproof Scratch-Proof Pet Seat Cover Hammock",
+    "description": "High performance waterproof scratch-proof pet seat cover hammock crafted by PawTraveler. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Automotive & Travel category.",
+    "category": "Automotive & Travel",
+    "price": 38.99,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 80,
+    "brand": "PawTraveler",
+    "sku": "AUTO-008",
+    "tags": [
+      "pet-cover",
+      "dog-seat",
+      "waterproof",
+      "travel"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-98?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-98-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-98-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-09-03T08:00:00.000Z"
+  },
+  {
+    "id": 99,
+    "title": "2000A Peak Portable Car Battery Jump Starter Pack",
+    "description": "High performance 2000a peak portable car battery jump starter pack crafted by VoltCore. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Automotive & Travel category.",
+    "category": "Automotive & Travel",
+    "price": 89.95,
+    "discountPercentage": 18,
+    "rating": 4.9,
+    "stock": 60,
+    "brand": "VoltCore",
+    "sku": "AUTO-009",
+    "tags": [
+      "jump-starter",
+      "power-bank",
+      "emergency",
+      "battery"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-99?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-99-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-99-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-09-05T20:00:00.000Z"
+  },
+  {
+    "id": 100,
+    "title": "Ultra-Plush Microfiber Drying Towels 3-Pack 1200GSM",
+    "description": "High performance ultra-plush microfiber drying towels 3-pack 1200gsm crafted by ShineArmor. Engineered for premium reliability, optimal ergonomics, and long-lasting durability in the Automotive & Travel category.",
+    "category": "Automotive & Travel",
+    "price": 19.99,
+    "discountPercentage": 0,
+    "rating": 4.7,
+    "stock": 125,
+    "brand": "ShineArmor",
+    "sku": "AUTO-010",
+    "tags": [
+      "microfiber",
+      "drying-towel",
+      "car-detailing",
+      "cleaning"
+    ],
+    "warrantyInformation": "1-year standard warranty",
+    "returnPolicy": "30-day hassle-free return policy",
+    "thumbnail": "https://images.unsplash.com/photo-placeholder-100?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-100-1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-placeholder-100-2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "createdAt": "2025-09-08T08:00:00.000Z"
+  }
+]

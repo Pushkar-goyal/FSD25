@@ -1,0 +1,275 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f5f7fb;
+    color: #172033;
+    min-height: 100vh;
+}
+
+.container {
+    width: 90%;
+    max-width: 1050px;
+    margin: 0 auto;
+    padding: 35px 0;
+}
+
+/* Header */
+
+header {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 14px;
+    padding: 25px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+header h1 {
+    font-size: 30px;
+    color: #111827;
+    margin-bottom: 7px;
+}
+
+header p {
+    color: #64748b;
+    font-size: 14px;
+}
+
+.status {
+    background: #eff6ff;
+    color: #1d4ed8;
+    border: 1px solid #bfdbfe;
+    padding: 9px 15px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+/* Form Card */
+
+.form-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 14px;
+    padding: 30px;
+    box-shadow: 0 5px 20px rgba(15, 23, 42, 0.05);
+}
+
+.form-card h2,
+.requests-section h2 {
+    font-size: 21px;
+    color: #111827;
+    margin-bottom: 7px;
+}
+
+.description,
+.section-title p {
+    color: #64748b;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+/* Form */
+
+.form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #334155;
+    margin-bottom: 8px;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 12px 13px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font-size: 14px;
+    font-family: inherit;
+    outline: none;
+    background: #ffffff;
+    color: #172033;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: #94a3b8;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+textarea {
+    resize: vertical;
+    min-height: 120px;
+}
+
+/* Submit */
+
+.form-footer {
+    border-top: 1px solid #e5e7eb;
+    padding-top: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form-footer p {
+    color: #64748b;
+    font-size: 13px;
+}
+
+button {
+    border: none;
+    background: #2563eb;
+    color: #ffffff;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+button:hover {
+    background: #1d4ed8;
+    transform: translateY(-1px);
+}
+
+/* Submitted Requests */
+
+.requests-section {
+    margin-top: 30px;
+}
+
+.section-title {
+    margin-bottom: 18px;
+}
+
+.request {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 15px;
+    box-shadow: 0 3px 12px rgba(15, 23, 42, 0.04);
+}
+
+.request h3 {
+    color: #111827;
+    margin-bottom: 12px;
+    font-size: 17px;
+}
+
+.request p {
+    color: #475569;
+    font-size: 14px;
+    margin: 7px 0;
+    line-height: 1.5;
+}
+
+.request strong {
+    color: #1e293b;
+}
+
+.request button {
+    margin-top: 12px;
+    margin-right: 8px;
+}
+
+.edit-btn {
+    background: #15803d;
+}
+
+.edit-btn:hover {
+    background: #166534;
+}
+
+.delete-btn {
+    background: #dc2626;
+}
+
+.delete-btn:hover {
+    background: #b91c1c;
+}
+
+.empty {
+    background: #ffffff;
+    border: 1px dashed #cbd5e1;
+    border-radius: 12px;
+    padding: 25px;
+    text-align: center;
+    color: #64748b;
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+    color: #94a3b8;
+    font-size: 13px;
+    margin-top: 30px;
+}
+
+/* Mobile */
+
+@media (max-width: 700px) {
+
+    .container {
+        width: 94%;
+        padding: 20px 0;
+    }
+
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+
+    header h1 {
+        font-size: 25px;
+    }
+
+    .form-card {
+        padding: 22px;
+    }
+
+    .form-row {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+
+    .form-footer {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 15px;
+    }
+
+    button {
+        width: 100%;
+    }
+}

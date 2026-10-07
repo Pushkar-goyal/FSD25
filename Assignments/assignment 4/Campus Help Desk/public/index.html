@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Campus Help Desk</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+            <div>
+                <h1>Campus Help Desk</h1>
+                <p>Submit and manage your campus support requests</p>
+            </div>
+
+            <span class="status">Student Support</span>
+        </header>
+
+
+        <section class="form-card">
+
+            <h2>Submit a Request</h2>
+
+            <p class="description">
+                Fill in the details below to report your campus-related problem.
+            </p>
+
+            <form id="requestForm">
+
+                <div class="form-row">
+
+                    <div class="form-group">
+                        <label for="studentName">
+                            Student Name
+                        </label>
+
+                        <input
+                            type="text"
+                            id="studentName"
+                            placeholder="Enter your name"
+                            required
+                        >
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="email">
+                            Email Address
+                        </label>
+
+                        <input
+                            type="email"
+                            id="email"
+                            placeholder="Enter your email"
+                            required
+                        >
+                    </div>
+
+                </div>
+
+
+                <div class="form-row">
+
+                    <div class="form-group">
+                        <label for="category">
+                            Category
+                        </label>
+
+                        <select id="category" required>
+
+                            <option value="">
+                                Select category
+                            </option>
+
+                            <option value="Academic">
+                                Academic
+                            </option>
+
+                            <option value="Hostel">
+                                Hostel
+                            </option>
+
+                            <option value="Library">
+                                Library
+                            </option>
+
+                            <option value="Transport">
+                                Transport
+                            </option>
+
+                            <option value="IT Support">
+                                IT Support
+                            </option>
+
+                            <option value="Other">
+                                Other
+                            </option>
+
+                        </select>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="priority">
+                            Priority
+                        </label>
+
+                        <select id="priority" required>
+
+                            <option value="">
+                                Select priority
+                            </option>
+
+                            <option value="Low">
+                                Low
+                            </option>
+
+                            <option value="Medium">
+                                Medium
+                            </option>
+
+                            <option value="High">
+                                High
+                            </option>
+
+                        </select>
+                    </div>
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="description">
+                        Problem Description
+                    </label>
+
+                    <textarea
+                        id="description"
+                        rows="5"
+                        placeholder="Describe your problem..."
+                        required
+                    ></textarea>
+
+                </div>
+
+
+                <div class="form-footer">
+
+                    <p>
+                        Please provide accurate information.
+                    </p>
+
+                    <button type="submit">
+                        Submit Request
+                    </button>
+
+                </div>
+
+            </form>
+
+        </section>
+
+
+        <section class="requests-section">
+
+            <div class="section-title">
+                <h2>Submitted Requests</h2>
+
+                <p>
+                    View your submitted campus support requests.
+                </p>
+            </div>
+
+            <div id="requestsContainer"></div>
+
+        </section>
+
+
+        <footer>
+            Campus Help Desk · Assignment 4
+        </footer>
+
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
